@@ -12,6 +12,7 @@ import numpy as np
 from langdetect import detect
 
 n_cpus = 8
+clap_threshold = 10
 
 if n_cpus == -1 or n_cpus>mp.cpu_count():
     n_cpus = mp.cpu_count()
@@ -57,6 +58,8 @@ def get_article(links):
             article['link'] = link
             article['title'] = unicodedata.normalize('NFKD', title)
             article['claps'] = get_claps(soup)
+            if article['claps']<clap_threshold:
+                continue
             paras = soup.findAll('p')
             text = ''
             nxt_line = '\n'
