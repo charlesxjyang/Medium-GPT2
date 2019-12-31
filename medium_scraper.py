@@ -10,6 +10,10 @@ from datetime import timedelta, date
 import multiprocessing as mp
 import numpy as np
 
+n_cpus = 4
+if n_cpus == -1:
+    n_cpus = mp.cpu_count()
+
 def daterange(start_date, end_date):
     for n in range(int ((end_date - start_date).days)):
         yield start_date + timedelta(n)
@@ -89,7 +93,7 @@ def main():
         for tag in tags:
             for date in daterange(start_date,end_date):
                 idx.append([tag,date])
-        with mp.Pool(mp.cpu_count()) as pool:
+        with mp.Pool(n_cpus) as pool:
             articles = pool.starmap(get_links_articles, [(tag,date) for tag,date in idx])
         pd.DataFrame(articles).to_pickle(file_name+'_'+str(year)+'.pkl')
         
