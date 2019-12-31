@@ -30,6 +30,18 @@ def get_links(tag, date):
         links.append(i.a.get('href'))
     return links
 
+def get_claps(soup):
+    claps  = soup.findAll('button')
+    for string in claps:
+        if 'claps' in string.get_text():
+            num_claps = string.get_text().split(' ')[0]
+            if 'K' in num_claps:
+                num_claps = int(float(num_claps[:-1])*1000)
+            else:
+                num_claps = int(num_claps)
+            break
+    return num_claps
+
 def get_article(links):
     articles = []
     for link in links:
@@ -44,6 +56,7 @@ def get_article(links):
             article['author'] = unicodedata.normalize('NFKD', author)
             article['link'] = link
             article['title'] = unicodedata.normalize('NFKD', title)
+            article['claps'] = get_claps(soup)
             paras = soup.findAll('p')
             text = ''
             nxt_line = '\n'
@@ -82,7 +95,7 @@ def main():
     is_write = True
     tags = ['AI','Technology','Machine Learning','Artificial Intelligence','Data Science','Deep Learning','Visualization','programming','Neural Networks','Big Data','Python','Data','Analytics','Tech','Tensorflow','Pytorch','NLP','Computer Vision']
     file_name = "data/raw_medium_articles"
-    years = [2015,2016,2017,2018,2019]
+    years = [2017,2018,2019]
     for year in years:
         idx = []
         start_date = date(year,1,1)
@@ -93,7 +106,9 @@ def main():
         with mp.Pool(n_cpus) as pool:
             articles = pool.starmap(get_links_articles, [(tag,single_date) for tag,single_date in idx])
         articles = [item for sublist in articles for item in sublist]
-        pd.DataFrame(articles).to_pickle(file_name+'_'+str(year)+'.pkl')
+        df = pd.DataFrame(articles)
+        df = df.drop_duplicates()
+        df.to_pickle(file_name+'_'+str(year)+'.pkl')
         
 if __name__=='__main__':
     main()
