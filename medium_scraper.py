@@ -88,6 +88,7 @@ def main():
                 idx.append([tag,a])
         with mp.Pool(n_cpus) as pool:
             articles = pool.starmap(get_links_articles, [(tag,single_date) for tag,single_date in idx])
+        articles = [item for sublist in articles for item in sublist]
         pd.DataFrame(articles).to_pickle(file_name+'_'+str(year)+'.pkl')
         
 if __name__=='__main__':
