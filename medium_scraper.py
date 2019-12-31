@@ -49,7 +49,7 @@ def get_article(links):
             os._exit(status = 0)
         except Exception as e:
             # for exceptions caused due to change of format on that page
-            print("Exception failed: {0}".format(e))
+            print("Exception failed")
             continue
     return articles
 
@@ -78,13 +78,12 @@ def isEndOfYear(date):
 
 def main():
     is_write = True
-    #tags = ['AI','Technology','Machine Learning','Artificial Intelligence','Data Science','Deep Learning','Visualization','programming','Neural Networks','Big Data','Python','Data','Analytics','Tech','Tensorflow','Pytorch','NLP','Computer Vision']
-    tags = ['AI','Data']
+    tags = ['AI','Technology','Machine Learning','Artificial Intelligence','Data Science','Deep Learning','Visualization','programming','Neural Networks','Big Data','Python','Data','Analytics','Tech','Tensorflow','Pytorch','NLP','Computer Vision']
     file_name = "data/raw_medium_articles"
     #if len(file_name.split('.')) == 1:
     #    file_name += '.csv'
-    start_date = date(2017, 1, 1)
-    end_date = date(2019, 12, 31)
+    start_date = date(2015, 1, 1)
+    end_date = date(2020, 1, 1)
     for single_date in daterange(start_date, date.today()):
         dfs = []
         for tag in tags:
@@ -98,7 +97,7 @@ def main():
                 df = pd.concat(dfs)
                 df = df.drop_duplicates()
                 df.to_pickle(file_name+'_'+str(single_date.year)+'.pkl')
-                print('EOY')
+                print('EOY: {0}'.format(single_date_str))
     #articles = pd.read_csv(file_name, file_name, delimiter='|')
     #articles = articles.drop_duplicates()
     #articles.to_csv(file_name, sep='|', index=False)
