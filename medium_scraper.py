@@ -9,6 +9,7 @@ import pandas as pd
 from datetime import timedelta, date
 import multiprocessing as mp
 import numpy as np
+from langdetect import detect
 
 n_cpus = 8
 
@@ -48,8 +49,11 @@ def get_article(links):
             nxt_line = '\n'
             for para in paras:
                 text += unicodedata.normalize('NFKD',para.get_text()) + nxt_line
-            article['text'] = text
-            articles.append(article)
+            if detect(text)!='en':
+                continue
+            else:
+                article['text'] = text
+                articles.append(article)
         except KeyboardInterrupt:
             print('Exiting')
             os._exit(status = 0)
