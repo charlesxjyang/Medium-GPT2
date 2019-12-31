@@ -10,8 +10,9 @@ from datetime import timedelta, date
 import multiprocessing as mp
 import numpy as np
 
-n_cpus = 4
-if n_cpus == -1:
+n_cpus = 8
+
+if n_cpus == -1 or n_cpus>mp.cpu_count():
     n_cpus = mp.cpu_count()
 
 def daterange(start_date, end_date):
@@ -70,31 +71,23 @@ def isEndOfYear(date):
             return True
     else:
         return False
-def get_last_day_in_year(date):
-    return date(date.year,12,31)
+def get_last_day_in_year(single_date):
+    return date(single_date.year,12,31)
     
 def main():
     is_write = True
-    #tags = ['AI','Technology','Machine Learning','Artificial Intelligence','Data Science','Deep Learning','Visualization','programming','Neural Networks','Big Data','Python','Data','Analytics','Tech','Tensorflow','Pytorch','NLP','Computer Vision']
+    tags = ['AI','Technology','Machine Learning','Artificial Intelligence','Data Science','Deep Learning','Visualization','programming','Neural Networks','Big Data','Python','Data','Analytics','Tech','Tensorflow','Pytorch','NLP','Computer Vision']
     file_name = "data/raw_medium_articles"
-    #if len(file_name.split('.')) == 1:
-    #    file_name += '.csv'
-    #start_date = date(2015, 1, 1)
-    #end_date = date(2020, 1, 1)
-    tags = ['AI']
     years = [2015,2016,2017,2018,2019]
-    start_date = date(2019,1,1)
-    end_date = date(2019,1,3)
-    idx = np.meshgrid(daterange(start_date,end_date),tags)
     for year in years:
         idx = []
         start_date = date(year,1,1)
         end_date = get_last_day_in_year(start_date)
         for tag in tags:
-            for date in daterange(start_date,end_date):
-                idx.append([tag,date])
+            for a in daterange(start_date,end_date):
+                idx.append([tag,a])
         with mp.Pool(n_cpus) as pool:
-            articles = pool.starmap(get_links_articles, [(tag,date) for tag,date in idx])
+            articles = pool.starmap(get_links_articles, [(tag,single_date) for tag,single_date in idx])
         pd.DataFrame(articles).to_pickle(file_name+'_'+str(year)+'.pkl')
         
 if __name__=='__main__':
