@@ -11,7 +11,7 @@ import multiprocessing as mp
 import numpy as np
 from langdetect import detect
 
-n_cpus = 8
+n_cpus = 16
 clap_threshold = 10
 
 if n_cpus == -1 or n_cpus>mp.cpu_count():
@@ -110,6 +110,13 @@ def main():
             articles = pool.starmap(get_links_articles, [(tag,single_date) for tag,single_date in idx])
         articles = [item for sublist in articles for item in sublist]
         df = pd.DataFrame(articles)
+        if len(df)==0:
+            if len(articles)==0:
+                print("PROBLEM: BOTH ARE ")
+            else:
+                print("PROBLEM")
+            print(year)
+            break
         df = df.drop_duplicates()
         df.to_pickle(file_name+'_'+str(year)+'.pkl')
         
