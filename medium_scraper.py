@@ -11,7 +11,7 @@ import multiprocessing as mp
 import numpy as np
 from langdetect import detect
 
-n_cpus = 16
+n_cpus = 2
 clap_threshold = 10
 
 if n_cpus == -1 or n_cpus>mp.cpu_count():
@@ -40,8 +40,8 @@ def get_claps(soup):
                 num_claps = int(float(num_claps[:-1])*1000)
             else:
                 num_claps = int(num_claps)
-            break
-    return num_claps
+            return num_claps
+    return -1
 
 def get_article(links):
     articles = []
@@ -70,12 +70,15 @@ def get_article(links):
             else:
                 article['text'] = text
                 articles.append(article)
+                print(len(articles))
         except KeyboardInterrupt:
             print('Exiting')
             os._exit(status = 0)
         except Exception as e:
             # for exceptions caused due to change of format on that page
-            print("Exception failed")
+            if 'link' in article.keys():
+                print(article['link'])
+            print(e)
             continue
     return articles
 
@@ -98,7 +101,7 @@ def main():
     is_write = True
     tags = ['AI','Technology','Machine Learning','Artificial Intelligence','Data Science','Deep Learning','Visualization','programming','Neural Networks','Big Data','Python','Data','Analytics','Tech','Tensorflow','Pytorch','NLP','Computer Vision']
     file_name = "data/raw_medium_articles"
-    years = [2017,2018,2019]
+    years = [2019]
     for year in years:
         idx = []
         start_date = date(year,1,1)
