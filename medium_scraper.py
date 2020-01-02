@@ -11,7 +11,7 @@ import multiprocessing as mp
 import numpy as np
 from langdetect import detect
 
-n_cpus = 2
+n_cpus = 12
 clap_threshold = 10
 
 if n_cpus == -1 or n_cpus>mp.cpu_count():
@@ -70,7 +70,6 @@ def get_article(links):
             else:
                 article['text'] = text
                 articles.append(article)
-                print(len(articles))
         except KeyboardInterrupt:
             print('Exiting')
             os._exit(status = 0)
@@ -98,10 +97,9 @@ def get_last_day_in_year(single_date):
     return date(single_date.year,12,31)
     
 def main():
-    is_write = True
-    tags = ['AI','Technology','Machine Learning','Artificial Intelligence','Data Science','Deep Learning','Visualization','programming','Neural Networks','Big Data','Python','Data','Analytics','Tech','Tensorflow','Pytorch','NLP','Computer Vision']
+    tags = ['AI','Technology','Machine Learning','Artificial Intelligence','Data Science','Deep Learning','Visualization','programming','Neural Networks','Big Data','Python','Data','Analytics','Tech','Tensorflow','Pytorch','NLP','Computer Vision','Technology']
     file_name = "data/raw_medium_articles"
-    years = [2019]
+    years = [2017,2018,2019]
     for year in years:
         idx = []
         start_date = date(year,1,1)
