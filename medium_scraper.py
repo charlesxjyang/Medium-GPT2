@@ -7,12 +7,13 @@ import csv
 import unicodedata
 import pandas as pd
 from datetime import timedelta, date
+import datetime
 import multiprocessing as mp
 import numpy as np
 from langdetect import detect
 
 n_cpus = 12
-clap_threshold = 10
+clap_threshold = 5
 
 if n_cpus == -1 or n_cpus>mp.cpu_count():
     n_cpus = mp.cpu_count()
@@ -97,13 +98,17 @@ def get_last_day_in_year(single_date):
     return date(single_date.year,12,31)
     
 def main():
-    tags = ['AI','Technology','Machine Learning','Artificial Intelligence','Data Science','Deep Learning','Visualization','programming','Neural Networks','Big Data','Python','Data','Analytics','Tech','Tensorflow','Pytorch','NLP','Computer Vision','Technology']
+    tags = ['Towards Data Science','Reinforcement Learning','Coding','Keras','Optimization','Random Forest','Decision Tree','Science','Kaggle','AI','Technology','Machine Learning','Artificial Intelligence','Data Science','Deep Learning','Visualization','programming','Neural Networks','Big Data','Python','Data','Analytics','Tech','Tensorflow','Pytorch','NLP','Computer Vision','Technology']
     file_name = "data/raw_medium_articles"
-    years = [2017,2018,2019]
+    years = [2015,2016,2017,2018,2019,2020]
     for year in years:
         idx = []
         start_date = date(year,1,1)
         end_date = get_last_day_in_year(start_date)
+        current_datetime = datetime.datetime.now()
+        current_date = date(current_datetime.year,current_datetime.month,current_datetime.day)
+        if end_date>current_date:
+            end_date = current_date
         for tag in tags:
             for a in daterange(start_date,end_date):
                 idx.append([tag,a])
@@ -118,8 +123,10 @@ def main():
                 print("PROBLEM")
             print(year)
             break
+        #only keep rows with duplicates
+        #df = df[df.duplicates(keep=False)]
         df = df.drop_duplicates()
         df.to_pickle(file_name+'_'+str(year)+'.pkl')
-        
+        print("YEAR: {0}".format(year))
 if __name__=='__main__':
     main()
