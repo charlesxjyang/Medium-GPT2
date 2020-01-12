@@ -1,0 +1,3866 @@
+Enchanted Random Forest
+Data Engineer vs Data Scientist vs Business Analyst
+Big Data Metaphors We Live By
+The Science / Engineering Divide
+So You Want to be a Data Scientist
+What Are History’s Most Popular Colors?
+Data Science for Losers
+Data Science in the Trenches
+A little prior knowledge goes a long way
+"Big Data, Advertising and the Phenomenon of Ad Blockers"
+Data Science for Newbies (including me!)
+Programming a Future in Buenos Aires
+Poop is okay.
+"Part One: The 42-Year-Old
+Coding Virgin"
+How I Taught My Mom to Code
+When the heck did learning to code become cool?
+Machine Learning in a Week
+How I Taught My Mom to Code
+Fuck Talent
+"Why I won’t learn to code, and you shouldn’t either"
+You Shouldn’t Have to Learn to Code
+How I Got Hooked on a Career in Coding
+Ligatures & Coding
+"JavaScript Arrays, pass-by-value, and thinking about memory"
+7 Golden Rules of Simple and Clean code and some more considerations [Slides]
+How to go from a computer literate to a computer programmer.
+"The important role of teachers, technology & failure."
+The CodeUpStart Mission.
+Diversity In Tech: Visibility And Exposure Is Important
+Introducing SPRK Lightning Lab
+Taking Keras to the Zoo
+A Microscope on Microservices
+Using Git to sync Sublime Text settings
+How to design a cruise itinerary
+Death by Optimization
+How to design a cruise itinerary
+Simple Softmax Regression in Python — Tutorial
+Building Online Communities: Deeplearning4j
+NTM-Lasagne: A Library for Neural Turing Machines in Lasagne
+Practical Text Analysis using Deep Learning
+Notes on Hierarchical Multiscale Recurrent Neural Networks
+My First Convergence
+Image recognition is not enough
+Generative Adversarial Networks Explained with a Classic Spongebob Squarepants Episode
+Recognising Beer with TensorFlow
+Across the Network — AI Week in Review Sept 23
+Behavioral Cloning
+"🎉🔮 Peak car; hardware eats software; sexbots; what killed newspapers; Maverick, Goose & homing pigeons++ #80"
+Artificial Intelligence Explained
+Monkeys Powering Exoskeleton Suits with AI — #10
+Deep Learning Tools (Part 1)
+Simple Reinforcement Learning with Tensorflow Part 1.5: Contextual Bandits
+Visualizing global satellite coverage with Planet
+Visualize Regeneration on Earth Day and Every Day
+Road to a Learning Path
+D3.js gradients — trickier than they look
+D3.js gradients — trickier than they look
+Paradigms of Rust for the Go developer
+How I Invented Databases
+How To Exclude The Packages Folder From TFS
+How it feels to teach yourself to code: an extended metaphor
+Fun with Stamps. Episode 8. Tracking and overriding composition
+What is Functional Programming?
+Working with Zephyr — The RTOS
+"HTML ❤ Effortless, Essential And >>Easy<<"
+Building an MVC Framework — Part 2
+The Wild West of Web Development
+The Book Tower
+Being a first-time mom is hard shit
+Now That We Have Your Attention
+How I built my first Android open source library (and how you can too)
+Adventures with mmap
+Webpack 2 Documentation Project Wants You
+A ridiculous way to create 135 art pieces in one weekend.
+Stupid rules for smart people
+Clean up your code with C# 6
+"Cousins, Half Baked – Jeffrey Field – Medium"
+The Kazi+ Promise
+VBA — Add Items to an Array
+How Go solves date and time formatting
+4D Design— The Promise of Programmable Physical Products
+Hash Tables
+"Easier to Read, Harder to Misread"
+Well Done
+Commodore 64 Self Modifying data
+You might not need React Router
+Check If A Checkbox Is Checked With jQuery
+RESTful Services Part I : HTTP in a Nutshell
+"Write Modern Asynchronous Javascript using Promises, Generators, and Coroutines"
+An Introduction to Hash Tables in C
+Call by reference vs call by value using Swift (Pre Swift 3)
+Recover a lost or deleted git commit
+9 essential JavaScript interview questions
+Simple Image Caching Techniques
+"I had a different experience, but I’m not saying your experience is not valid, or even that my..."
+Stupid Python Tricks: Learn the ABCs (and SDFs)
+Store your Node.js application logs to Minio
+"var, let and const — What, why and how — ES6 JavaScript Features"
+"A Step-by-Step Guide to Creating Your Own Rock, Paper, Scissors Ruby Gem"
+"Jakub, Software Engineer @ Microsoft"
+Vim and Atom
+"Full stack, full slack"
+Graal & Truffle
+Decoding a garage door opener with an RTL-SDR
+The Clock’s Ticking: How to Optimize Compile Time in Unity
+Design patterns #2: The Builder Pattern and the Telescoping Constructor anti-pattern
+Instagram Engineering’s 3 rules to a scalable cloud application architecture
+What growth engineers can teach us about engineering
+A Python ate my GUI — Part 2: Design
+NSExtension & PlugInKit — A brief intro.
+The Little Known Bitwise Operations and their Performance in JavaScript
+WoofJS — making JavaScript learnable
+Why Do I Have to Test Your Shit? (The 5-Minute Sniff Test)
+The end of code as we know it
+List Incomprehensions
+Interview with Daniel Jih of Amplitude Analytics
+Just Another Golang Intro
+"10 Steps to Start Programming in Haskell, Clojure, Scala, Elixir, Go or Erlang"
+What would you build at MLH Prime: Spring Finale 2016?
+How to Get from Junior to Senior Developer?
+Error 404: Education Not Found
+freeCodeCamp: Find the Longest Word in a String
+#VetsWhoCode: PreWork (Updated For 2018)
+freeCodeCamp: Check for Palindromes
+Build Stuff Odessa
+"Q & A with Autodesk Software Engineer, Megan Arnez"
+FreeCodeCamp: Reverse A String
+Accord.Net: Looking for a Bug that Could Help Machines Conquer Humankind
+The Core Concepts of Angular
+Change Detection in Angular
+Imperative vs Declarative Programming
+"Emacs, Nano, or Vim: Choose your Terminal-Based Text Editor Wisely"
+The Vanishing of Milliseconds
+Two Phases of Angular Applications
+The Taxonomy of Reactive Programming
+The Importance of Pseudo-code in Searching for Solutions
+Words of My Perfect Teacher
+Why is it So Hard to Find a Technical Co-Founder ?
+Policy Object
+Deep Work
+Clobber imposter syndrome using your mental searchlight
+Node.js vs Python — Where to Use and Where not?
+A Recap of McGill Physics Hackathon 2016
+More on Entity Relationship Diagrams
+There Are Only a Handful of Technical Interview Questions
+Twilio Signal 2016
+A New Beginning!
+Reverse engineering visual novels 101
+10 Scratch Projects That Will Make You Laugh
+The Angry Programmer 🔊
+Reference and Value Types in Swift
+I want to teach you to build products using javascript. For free.
+Dialogs modeled as finite state machines ?
+How to apply to programming jobs as a self-starter
+Monitoring our Stack with Elixir
+Resetting a ticker in Go
+Is Taking Small Steps Always a Good Idea?
+Reading a Go map safely
+Imperative vs Declarative Programming
+This article is fantastic and helped improve my understanding of the topic.
+From Spanish teacher to Web Developer: Empowering CNY Through Code
+Resources to Start Learning R Language
+The Algorithm Breaker
+WE will build more than just hacks. RE: What would you build at MLH Prime: Spring Finale 2016?
+Viki partners with DIA TV to launch new “Trendsetters” category!
+Bootstrap Semi-Annual Sale: a tutorial on web frameworks
+Nice Article Tyler!
+Java IO
+What soft skills do developers need in their backpacks?
+Normalizing a Date String in the Scala Way.
+"My MIT PhD thesis in CS, told using the 8-point story arc"
+Just keep chipping away at it
+Jo Franchetti — Front-end Engineer
+Building an API for Charity with Stripe and GraphQL
+Why I still code as engineering manager?
+Stop trying to fix it. Replace it already.
+Finding A Junior Friendly Team
+"As you sow, so shall you reap"
+Creatures live here and they do what I tell them... sometimes
+Checking the Source Code of FlashDevelop with PVS-Studio
+Levels of Programming Languages
+Why are all programming languages in English?
+Scope in JavaScript
+Technical ‘Internship’ At A Startup
+Creating ASP.NET Core Web API application
+How to fix software development
+"Stop iTunes from auto-opening, control Spotify with your headphones, and realize all of your dreams."
+Volumetric Light Scattering in three.js
+What Not To Do: The Beginner Programmer’s Guide
+The keyword ‘let’ in ES6
+Introduction
+Seeing the World with New Eyes!
+Is the end of the code as we know it?
+Swift Basics — Week 3
+How To Swap Two Values Without Temporary Variables Using JavaScript
+What does it take to generate cluster wide unique ID’s in a distributed system
+How to parse YAML string via Bash
+The Swift Singleton Pattern
+A Brief History of Laravel
+Best Gitter channels: Python & Django
+Some thoughts on your curriculum
+The real status of web developer’s skills in Mauritius
+Golang for DFIR
+Use Jackson for JSON conversion in Akka HTTP
+Stacks — An Outlook on Software Development From a Newbie Coder’s Perspective
+File Based System for managing business logic aka don’t mix tech with business
+The simplest explanation for n eggs k floors puzzle
+Going functional with webhook dispatching
+Why are some programming languages more popular?
+A Transparent Trustless Lottery
+My favorite ECMAScript 6 features.
+Ten Rules for Negotiating a Job Offer
+How to correctly use context.Context in Go 1.7
+Tackling State
+The 50 best free online university courses according to data
+"ICMP: The Good, the Bad, and the Ugly"
+JavaScript Closures Explained by Mailing a Package
+Go is for everyone
+The Last Digit of a Large Fibonacci Number
+The Database is a Magician
+Run for better code
+IF I fell in love with you...
+7 Places to Learn to Program— for Free!
+Why I became a Product Manager
+How to Become a Senior Developer
+Greatest Common Divisor
+"Software Development, It’s still about People"
+Getting the Most out of your Database with Ruby on Rails
+Reading Thousands of Python Solutions at Once
+"From Python to Java, or not: Our experience"
+A tale of two softwares
+What is Coding or Programming?
+Modern Software Over-Engineering Mistakes
+Creating USSD Applications
+"rx_tools: command-line SDR tools for RTL-SDR, bladeRF, HackRF, and more (rx_fm, rx_sdr, rx_power) — ported from librtlsdr"
+Swift: Syntax Cheat Codes
+"Learn Node.js with Brigadier Fluffykins Part II: Events, EventEmitter and the Event Loop"
+"An unexpected journey, a DBA’s tale"
+Automating NoSQL Database Builds
+5 Habitual Mistakes Node.js Developers Often Make
+Designing with CRC Cards
+UPSERT with PostgreSQL 9.5
+GoGoAlgorithm #1 : Breadth-First Search
+Code is the poetry of a better world
+Tuition & Value
+Soft Machines
+Write Bigger Code So You Can Focus
+The Six Month Bug (and why I will never abbreviate variable names)
+"My Rails App, Travsto, now with a jQuery Front End"
+A Brief History of the Command Line
+Don’t copy-paste code. Type it out. 🔊
+How to break when looping an array in Javascript
+Why developers are scared to refactor code ?
+Advantages of C over C++
+Getting Started with Async/Await
+How improve your skills in lldb debugging
+8 things to do while Gradle builds
+A Fork in the Road
+Ruby On Rails with Oracle Database on MacOS
+Learning CSS in a day ? Easy ! Build a Pokedex.
+Storing data at the atomic level
+"Shader Programming, Volume 11"
+A starting point for setting timeouts
+A Little Git-Fu for the Budding Young Grasshopper (Programmer)
+Programming: Into a Language and Outside of the Box
+"""Creation changes your life"" and other reasons why you should learn to code."
+"PVS-Studio team is about to produce a technical breakthrough, but for now let’s recheck Blender"
+"As Ruby is a very well structured language, developed in eduction in mind, it allows developer to..."
+Huge Fibonacci Number modulo m
+“create-react-app” and the future of creating React applications
+"Python — List Sorting, Keys & Lambdas"
+Resumes suck. Here’s the data.
+All you need to know about Codevita !
+Manually Tuning Webpack Builds
+Trust No One: An Introduction to Large Codebases for New Engineers
+How learning Smalltalk can improve your skills as a programmer
+94 Gems from Code Complete
+Scripting LLDB with Python
+Make your code more “pythonic” using Python’s special methods
+Design patterns #3: Factories
+Behind the scenes of Word2Vec on Harry Potter
+Python and Ruby implementations compared by the error density
+The Most Important Questions About Coding Bootcamps
+Demolitions and Dalí: Web Dev & Analysis with Graph Data
+Why Functional Programming?
+Why do I use Vim ?
+Let’s Teach CNY Kids to Code with AT&T’s Youth Code Project!
+Offsetting Ruby Time
+"Goodbye, Object Oriented Programming"
+Rbenv — How it works
+On Learning iOS
+Learning to Code Is Really Hard. It Is Also Easy.
+Why I’m giving up live LaTeX notes
+Why My Seven Years Of Working As A Computer Programmer In Silicon Valley Were A Complete Waste Of Time
+Context keys in Go
+Stupid Python Tricks: Abusing Explicit Self
+The beginning of an adventure: 13 Weeks of JavaScript (╯°□°)
+Create your own GitHub (kinda)
+Test setup and teardown in Rust without a framework.
+I had felt same for couple of yeas or so about all OO thing when things broke rudely every now and...
+Getting into Web Development and Learning How to Learn
+Code will always be written
+golang cgo linker
+How I got in 100 upvote club on ProductHunt
+Viking Code School Week 2: Algos and Data Structures
+Angular Template Syntax
+What I learned hacking the Facebook Messenger Soccer game
+Scratch Has a Marketing Problem
+Git under the hood
+Designing Glitch: How we’re tackling web development’s nagging complexity
+Dyslexia does not stop you coding.
+Android Decompile Deepdive: TED
+5 Biggest Lies Web Developers Say
+"Response to “Goodbye, Object Oriented Programming”"
+1. Don’t be scared of Object Oriented Programming
+Navigating the Text Editor Holy Wars
+Properties in Polymer Custom Elements
+Doing a Software Release with Git
+Does a developer need to be nice?
+Finding the Largest Prime Factor in Ruby
+Class teacher
+100 days of golang
+Becoming a Maker
+"I see where he is coming from, ill try to elaborate."
+The Engineer’s Guide to Babies
+High-Level SQL Query Concepts
+Make your life easier with JavaScript promises
+Building a Node.js REST API 5: Defining The Routes
+Top 10 JavaScript Articles for the Past Month. (v.July)
+Fractional Knapsack
+Do you want to be involved in the Node.js Engineer Certification?
+Forget fat models: it’s time for skinny controllers and skinny models
+"Installing Laravel Homestead on Windows, with Lightning-Fast NFS"
+The Shoemaker’s Son
+My first month working with F# daily
+Announcing Docker4Drupal Open Source Initiative
+3 Tips for Selecting the Right Database for your App
+Back to Webmaster
+You won't be better if you don't get out there.
+Farewell Brazil... Hello Portugal!
+How to hack your friends
+How to use git pull
+Create an iOS custom TabBar with Swift
+Data Consistency Checks
+Accelerating SHA256 by 100x in Golang on ARM
+TypeScript: Safety in the Absence of Types
+Rationally irrational
+Top 10 React.JS Articles for the Past Month. (v.July)
+Introducing React Component Hierarchy
+The Trick to Teach Anonymous Functions to 11-Year-Olds
+Seven Productivity Tools For Programmers
+A Future of Delays and Promises
+Return of the vacuum
+3 Steps For Solving Any Coding Problem
+React Native
+Launching Bitwise: bits from the ground up!
+Coding Across Canada
+Do You Want To Learn to Code? Here Are My 5 Tips...
+Why Should Your Kids Learn to Code?
+8 Striking Similarities Between Writers and Developers. And 1 Major Difference
+codebar Berlin
+Developers: How to Overcome Imposter Syndrome
+Making Javascript feel like native iOS with WKWebView
+Testing HTTP applications with a few ok libraries
+Why Spinlocks Are Bad On iOS
+How to make a Slack bot speak Kubernetes
+Code Review and Test First Development
+Make your life more abstract
+Leland Richardson: Companies wanting to use React Native will find that integrating is not that straightforward
+Part 1: Bits 101
+Adding semantics to graph databases with Grakn. Part2
+10 Essential Erlang Tools for Erlang Developers
+Immutability vs Encapsulation in Angular Applications
+Running a child process in Ruby (properly)
+"Learn Node.js with Brigadier Fluffykins Part III: Request Object, Configure Routes, Serve Files"
+Jumping on the Clouds
+What’s so great about creativity anyway?
+So you wanna javascript?
+Using Assertions in Unity
+I do NOT have time for writing blogs (like this one).
+5 Reasons You Should Learn to be a Developer
+Function as Child Components
+A Friendly Introduction to Dagger 2: Part 1
+Assignability in Go
+Non-Greedy Regular Expressions
+Life as an impatient programmer
+Weekly Programming Challenge #1
+"Setting up Browserify and React, on Rails"
+Implementing a stack language in OCaml with continuations
+What is the FizzBuzz test?
+Computer programming quotes from throughout the years
+Introduction to dependency injection in Ruby
+Putting the M in MVP
+How do I keep up with technology?
+"Generating mazes from pictures, or “Masking Entropy”"
+I really enjoyed interviewing at Spotify
+Design Patterns in Swift
+FizzBuzz Recipe
+A response to “Good bye Object Oriented Programming”
+How to conquer legacy code
+RUST : BEYOND THE BASICS
+Promoted fields and methods in Go
+Top 10 Node.JS Articles for the Past Month (v.July)
+Create a simple REST API endpoint using Webtask.io
+Creating Yeoman generators easily with yeoman-easily
+bind and this — Object Creation in JavaScript P1 — Fun Fun Function
+Free Coding Resources for Parents
+How to build your first chatbot using ChatScript
+`noms init`
+A Friendly Introduction to Dagger 2: Part 2
+Computer-generated Floral Ornament Based on Magnetic Curves
+The Exceptional Server
+"ES6: All Hail, Template Literals"
+"Emerging Languages Overshadowed by Incumbents Java, Python in Coding Interviews"
+Adventures in Learning Recursion
+How many system calls does “ls” make on a Mac? Answer: 134
+How to make time to become a better developer
+How to crash strings.FieldsFunc in Go
+When to Specify a Gem Version for Ruby on Rails Applications
+More than Code
+#1 Reason You Never Finish Your Side-projects and How You Can Fix It.
+Dusting the globe: analysis of NASA World Wind project
+6 Questions I Asked Myself Before I Changed My Career To Web Development
+Resources for Learning Python Programming Language
+How to prepare for a Google interview for a technical engineer:
+One Does Not Simply Learn To Code Online
+Native Cross-Platform the Easy Way
+Coding For Fun — How to Avoid Creating a Second Job
+Make WebStorm better with these customizations
+Announcing Tokio
+"3 incredibly boring but highly effective ways to learn, and get better at, JavaScript"
+Top 10 Machine Learning Articles for the Past Month (v.July)
+The Best Code I’ve Ever Written
+Can Scala have a highly parallel typechecker?
+A quick guide about Python implementations
+First-Ever CS50x Coding Contest
+Ruby numeric types: do’s and do not’s
+Best Gitter channels for: Learning to Code
+strings.FieldsFunc vs strings.Split
+Long-Awaited Check of CryEngine V
+Pomodoro For Programmers
+"Andres Gutierrez: “I started to program when I was 12 years old, when I could fulfill my fantasy of making my own video-games”"
+Dear Sprouting Developers
+My Fellowship experience — Migo IQ
+"2 Months, over 45 comments later, and after endless changes, the Discovery Pane now has UI test coverage."
+Part 2: The beauty of bitwise AND (∧ or &)
+Why Vim is so much better than Atom
+"Rebuilding 200,000 lines of code from scratch: A review of a major software project"
+How to Create a Gradient TextView in Android
+Vapor vs. Kitura Benchmark
+"Centrifugo — protobuf inside, JSON outside"
+Random and Procedural Map Generation Part 1: Noise and Maps
+Code Smell: It's Not That Simple 🔊
+Computer Science Pitfalls
+Twitch goes to GopherCon 2016
+"Learn Smart, Not Hard: Applying Learning Research to Learning Programming"
+Sorting algorithms in Ruby and default #sort behavior
+We Still Need Coders and Composers
+"James, thanks for writing this!"
+Turing School of Software and Design: the hardest thing I’ve ever done.
+Interview of Stephanie Hutson of Shotput
+Noms: A Better Way to Store & Share Data
+My Journey with Topcoder: A Guest Post by Nikhil03
+Recording and Playing Human Input
+How to find the best Ruby on Rails developers
+Introducing Cartogram Relay (updated 9-6-16)
+How to add GProf flag in Bazel build
+How to learn faster at your own pace as a Software Developer
+What It Really Takes to Be a Professional Programmer
+The Art Of Problem Solving
+What Happened When I Peeked Into My Node_Modules Directory
+Internationalization in React
+Beyond Memory Leaks in JavaScript
+Using wp-cli with Docker
+Tips of Numpy : Shuffle Multiple Arrays
+"How do people write more than 10,000 lines of code all by themselves?"
+Parsing HTML in Rust
+Run tests at build time with Android Studio
+Non-developer in the coding world — part 1
+Welcome to #TechMasters 🍍
+Recent Evolution of Programming Languages
+Picture-in-Picture on macOS Sierra
+My Advice to Budding Coders
+A tale of moderation
+Why Programmers Need Limits
+"Here are all the Git commands I used last week, and what they do."
+SQL Query for Counting Records per Day
+How I used Stack Overflow & GitHub to get dream job before 19 without degree
+JS ES6 Recursive Tail Call Optimization
+Identical types in Go
+Implementing Date Ranges in Elixir
+How to Learn to Code and Stick with It
+Weekly Programming Challenge #2
+Getting started with RedPotion for faster iOS development
+Getting started with RubyMotion for iOS development
+Predictive Text / Autocomplete using a Trie (Prefix Tree) Data Structure in Javascript — Part 1
+“Which language should I learn?” — answering with real market data
+"Yes, Code Wins Arguments. But Why? (And How to be Polite About It)."
+Triangle minimum sum algorithm
+Over many years I have seen people claim that good code is “self-documenting”.
+Making the Most of Your Coding Bootcamp Experience
+Developers favorite Tools and Blogs
+Migrating to ES6 classes
+Flatcasts — My Final Project for Flatiron School
+Good Code is a State of Mind
+100 Days of Improving Coding Style
+Go Walkthrough: bytes + strings packages
+Top 10 Python Articles for the Past Month (v.July)
+The Builder Pattern 🏠
+How We Do MongoDB Migrations at Coinbase
+Using JavaScript to Learn Haskell
+8 Characteristics of a Good Developer
+Core Motion’s CMPedometer
+The Conciseness of Swift
+Nerding Out With the Amazon IoT Button
+Logic Problems
+"I’m Not an Expert, and That’s OK"
+Examples of this and bind — Object Creation in JavaScript Part 2
+Part One: Preparing to work with a development firm
+Fighting the Dreaded Drive-By
+A Journey from JavaScript into GoLang
+Evenings and Object Orientation Part 1
+Programmers: stay nimble.
+What’s My Value? (Part 5)
+Dynamic pure SQL WHERE clauses and optional JOINs
+Async operations using redux-saga
+"Total n00b’s guide to Big O, Big Ω, & Big θ"
+Setting up Flow when you’ve already got Babel in place
+Introduction to using Material Design in Elm
+Blocks in Go
+How to set up a Basic Ember.js app
+Twelve Weeks @ Basecamp: A Summer Tale
+First weeks in Elm
+Factorial using Ruby (App Academy Practice Problem)
+Top 3 places to find Remote programming jobs
+Treat your codebase like a house. Don’t bulldoze it just so you can remodel the kitchen.
+Rendering Text in Rust with Piston-Window
+"To comment, or not to comment, that is the question. (Part 1"
+Code Briefing: Good code is its own best documentation
+CS50 AP Newsletter — August 2016
+My Most Used Docker Commands
+Subtests & Sub-benchmarks in Go1.7
+A Filesystem on Noms
+Agreed.
+Things Developers should know: Accessibility Edition
+Algorithms 101 Recap
+My Roller Coaster Programming Ride.
+Should I Or Should I Not Use ORM ?
+Building a React Components Living Documentation using React-Storybook.
+Fun with global constants in Swift
+Aspect Oriented Programming : Overview
+[Quick Qt: 5] How to configure SDL 2.0 in Qt 5.6.1 on Windows 10
+Backend API Documentation in Swift
+Fail Fast Python Multiprocessing
+Working as a programmer— is it worth it? An interview with Adam from Sumo Logic
+How Good Is The Engineering Team At Crowdfire?
+JavaScript: Object Instantiation Styles
+How to choose a table index for your SQL database
+Did I just make a snake game within my first 6 weeks of programming school?
+"Part 3: Bitwise OR, AND’s sibling"
+The Basics of Modular JavaScript & npm Packages
+How to Learn to Code and Stick with It
+Fail Fast Python Multiprocessing
+Nothing Is Random
+Callbacks and This
+Lessons from converting an app to 100% Kotlin
+Breathing air into AirBnB’s JavaScript Style Guide
+Scopes in Go
+NaN and typeof
+Swift + Initialization with Closures
+The Wrapper Object
+Pair Programming 🔊
+Clojure CLR from scratch — Part 1
+Pattern matching in Elixir
+Fun Kids Coding Activity: Learning 5 Basic Concepts About Variables
+Contributing to Stack Overflow: How Not to be Intimidated.
+Common mistake with Java’s SimpleDateFormat and Calendar in multi-threading environments
+A New Spin on Summer School
+Is PHP the most hated programming language?
+Spring Boot in 50 minutes
+Code Quality: Human variables in the equation
+Moving into new microservices world
+"Acronyms, Hacking, and more Acronyms (AHA!)."
+How mathematicians influenced programming
+Swift Basics — Week 4
+Recurrent Neural Networks for Beginners
+Why building web-apps in Haskell is harder than it ought to be
+The 12 Most Retweeted Programming Quotes
+Rise From the Ashes — Incremental APIs With Phoenix
+What Makes a Good Software Engineer?
+"Introducing Tank, a very high-performance log"
+30 Months as an iOS engineer. My tips for newcomers.
+Reverb Engineering Manifesto
+I think you are conflating Yesod/Persistent with the Haskell environment.
+2016 Develop Denver Rumination & Reflection
+"Where to Hold React Component Data: state, store, static, and this"
+Demystifying Git internals
+Part 1. Let’s write a simple sine wave generator with C++ and JUCE
+An event-driven TCP server using libuv
+Redux Error Reports Concept
+Weekly Programming Challenge #3
+The Force of Habit
+PHP Iterators and Generators
+Kernel memory randomization and trampoline page tables
+Feeling like a fake — Impostor Syndrome
+"Data format for MATLAB, R and Python codes of data analysis, and sample data set"
+UICollectionView snap scrolling and pagination
+“Leave it a little better than you found it” isn’t good enough.
+8 stackoverflow threads to read for deeper understanding of Python
+"Settings for running my MATLAB, R and Python codes"
+Turing School Starts Tomorrow
+Labels in Go
+"5 steps to uploading files and images to S3 in React using Express, SuperAgent, Multer, and DropZone"
+Raspberry Pi Bare Metal Programming with Rust
+Go Walkthrough: encoding package
+OOP and Go... Sorta
+JavaScript killed my dog
+Why Go is awesome for building security clients
+7 ways training Brazilian Jiu Jitsu will level up your programming skills
+“Proper” function manners and etiquette
+Why are time estimates often REALLY wrong?
+10 Rules for Formatting Your Code
+Olu Niyi-Awosusi— Software Developer
+Wanted: Engineer who Jams the Fizz in your Buzz.
+Software engineering isn’t engineering
+Waiting for the Linux-version: Checking the Code of Inkscape Graphics Editor
+Understanding B+tree Indexes and how they Impact Performance
+Constant confusion: why I still use JavaScript function statements
+Coding Interviews: Things I learned to make the most out of a broken system
+People can’t gauge their own interview performance. And that makes them harder to hire.
+How to Prepare for the Hack Reactor Technical Interview
+I had nightmare because of Nightmare (.js)
+Swift conditional logging & compiler flags
+SQL Joins And You
+How to get 74 million followers
+One weird trick to name your tests
+Minimum Dot Product
+[React Native 0] Set up React Native on Mac for iOS and Android Development
+"JS has several array types (see typed arrays), but other than that, all valid points."
+The Beginner’s Mind: What Our CODE2040 Fellow Taught Me
+Decorators everywhere!!
+Understanding APIs
+[React Native 1] Introduction to React-Native
+Meet the Educator: Claire Pritchard
+Snippets Saved My Life: How Sublime Text 3 Snippets Changed Everything
+Just Let Me Build
+How to Find and Hire a Software Architect
+21 Amazing Open Source iOS Apps Written in Swift
+Swift: Typecasing
+How to Handle Persistent Data for Custom Editor Tools in Unity
+Elixir and Data Ingestion
+Solving the N-Queens Problem with JavaScript
+Understanding “while (*s++ = *t++)” in C
+Deploying Nova-LXD Hypervisors with OpenStack-Ansible
+Smalltalk ruined my life
+The Abstract Factory
+Raft: Appending Entries
+Top 10 places to learn coding (for free)
+My Development Setup
+Ten principles of good code
+Becoming a Successful Learner in Coding
+"Complementing Unit Testing with Static Analysis, with NUnit as an Example"
+Who is a coder?
+Build a Simple Todo App with Vue.js and Vuex 2.0
+Python vs Julia Observations
+"Let’s test React components with TDD, Mocha, Chai, and jsdom"
+Generative Testing Redux: Reducers
+The actor model in python with gevent
+Part 2. Basic sound waves with C++ and JUCE
+How To Find The Best Context For Pair Programming 🔊
+Design for code maintainability
+Never say never
+Humans don’t read characters
+Refactoring out a Y Combinator.
+Battling Escapism to continue Learning Programming!
+"That’s very kind of you, but I don’t want to blow it up out of proportion."
+Golang json additional fields
+We found over 10000 bugs in various open source projects
+"Kotlin: The Good, The Bad, and The Ugly"
+100+ Useful Web Development Tools and Resources
+Pitfalls of Node.js
+There are 31 Of The Best Kept Secrets Of Great Programmers
+Python “bool” — wat?
+Software Capital — Achievement and Leverage
+What Has JS Done for You?
+Python regex search and replace with re.sub — remove street number from address
+Communicating in human language in this software world
+"No One Ever Got Better at Something 
+by Letting Someone Else Do It for Them"
+How to get what you need? Ask for it.
+Step by step on learning Python programming. Easiest way in the world
+How to control an application flow?
+Generalized type constraints
+Parallel processing with ruby
+Rails 5 serialized attributes
+Trying to make building webapps easier in Haskell
+Weekly Programming Challenge #4
+Stability Patterns — Circuit Breaker
+Hahaaaaa. You are excellent at self promotion and “stirring the pot” and I thank you for a detailed...
+Practice Safe Sec on the Field
+Six Ruby Best Practices Beginners Should Know
+Should I test my code or not?
+How I Learned to Code
+Why I Started Learning Another (Programming) Language 🐍
+Why Isn’t F# the King of .NET?
+Exported identifiers in Go
+Using Swift’s Enums for Quick Actions
+Setup React Server Side Rendering ...QUICK!
+Simple event dispatcher implementation using JavaScript
+How bad design decisions created the least secure driver on Windows
+Common Bad Programming practices
+Choosing Data Structures: A guide for the confused
+"Hi Kata,"
+A Sobre Reflection
+Does clean code matter?
+"About Curiosity, Learning and Eigenvectors"
+Tech Challenge Flashback: Finalist Q&A with Ben Walters
+Call by reference vs call by value using Swift (Pre Swift 3)
+Go interfaces & pointers
+Hunting for great names in programming
+Go Walkthrough: encoding/json package
+Lets talk about Object Oriented Programming
+Problems with concurrent Postgres indexes (and how to solve them)
+Developing Data Scientists and Engineers
+What I would like to know before I code my first iOS application in Swift
+How Scratch Changed the Life of Our Son with Autism
+I made my first PR to A-Frame!
+Elias-Fano: quasi-succinct compression of sorted integers in C# (2016)
+For programmers
+The Language of “Helping”
+Modeling Concepts Effectively in Javascript
+Mirror Mirror: File to Cloud in 25 lines
+Learning a new language. Again.
+About Those Bootcamp Graduates...
+Functional Nature of Javascript
+Learning new things can be hard and that’s ok
+Phase change memory can operate thousands of times faster than current RAM
+Stack Overflow as a Service
+Erlang Easter-Eggs
+iOS Application design from developer’s perspective.
+Figuring Out The State Of JavaScript In 2016
+Learning Computer Science On Your Own For Free
+Understanding Decorators in Python
+Leveraging Cognitive Apprenticeship to Level-up Developers
+GSoC at Wikimedia (Part 1 of 3)
+How I improved my git productivity with Hub
+Power of Functions in Javascript
+The moment when you realize every server in the world is vulnerable
+7 Good Developer Habits I Wish I’d Adopted Sooner
+Checking the Source Code of MSBuild with PVS-Studio
+Git in 15 minutes
+Why We Love MAPs
+Looking Back At a Year of Life-Changing Hackathons
+A Unique Journey in Search of Keys
+Regex You Can Read: How It Works (a Syntax and App for Building Regexes)
+Editor(s)
+On the Importance of Small Interfaces
+Why AI Consciousness is Doomed
+What is MVC?
+Six Similarities Between Learning to Code and Launching a Startup
+Welcome to Cultured Perl
+Why We’re Bound To Fail Our First Attempt At Anything
+Learnings from the craft of programming.
+The Delegation Pattern in Swift
+Learning to Code is not just for Aspiring Coders
+Tech has a Toxic Tone Problem — Let’s Fix It!
+Code: Align the happy path to the left edge
+Debugging React Native Applications
+What is Sweet32?
+Triggering Process Builder From Button — Misadventures of a Salesforce intern
+An example of Protocol-Oriented Programming in Swift
+The Power of Pair Programming Lies in the Execution
+Which Country Would Win in the Programming Olympics?
+Open-sourcing Pushprom: our solution to Prometheus data retrieval issues
+How bug-fixing made me a better developer
+Helpful Job Seeking Tips for Entry Level Developers
+Adding semantics to graph databases with Grakn. Part 3
+Hundred days of code: #100daysofcode once again
+Snap Your Fingers
+Goldman Sachs Girls Who Code Program 2016 — An Insight into our Projects and Mentorship Experience
+What I learned from Coursera’s “Learning How to Learn”
+Learning How to Learn: The Most Important Developer Skill
+How to Make a Twitter Bot in Under an Hour
+Five tips for improving your technical writing and documentation.
+How to find Schema of a Collection in MongoDB
+What it’s Like to Pair for a Year
+Using Elm in the newsroom
+“Electric Fence: Who Let the Heap Corruption Out?”
+"Linear Discriminant Analysis: MATLAB, R and Python codes — All you have to do is just preparing data set (very simple, easy and practical)"
+Fuzzing Perl/XS modules with AFL
+Here is my Google story.
+"A letter to bootcamp grads, 6 months as a Developer Advocate"
+Dev Bootcamp: A Retrospective
+Smart Casts in Kotlin
+I think learning to code is harder and more frustrating than learning other things because it’s so...
+Non-developer in the coding world — part 2
+Things I learned at the European Perl Conference 2016 in Cluj
+Tic Tac Tips
+"Extending SyntaxDB — Atom, Node, and more"
+Essential principles to be a great programmer
+A Super-Simple Makefile for Medium-Sized C/C++ Projects
+My Friend Made Me Do It!
+What should motivate a Software Developer?
+Tabs vs Spaces
+CSS Positioning Explained By Building An Ice Cream Sundae
+Factory Method in Swift
+5 STEP GUIDE TO STARTING YOUR SOFTWARE / WEB DEVELOPER CAREER THE RIGHT WAY!
+Swift + Consuming & Transforming Arrays
+"Live-Coding: Insider Nerd Art, High Wire Act, or Virtuoso Music?"
+It’s OK to be pragmatic (with a little help from the “crazy ones”)
+"Stop Crippling Your Database (2/6): Meet Triggers, SQL’s Callbacks"
+On Golang’s `defer` keyword
+Experimenting with the Apache Mesos HTTP API for Fun and Profit
+Weekly Programming Challenge #5
+My current Clojure CLR project
+Syllabification is a Fun Word: Does English Use More One-Syllable Words than Spanish?
+Developer Level Descriptions
+How to convert text in a file to lower case in Linux.
+Linux is 25. Yay! Let’s celebrate with 25 stunning facts about Linux.
+The Elegance Of React
+45 Github Issues Dos and Don’ts
+Move Fast and Don’t Break Things
+What I learned from showing my work on Hacker News
+Deploying a React Native Application to your iPhone
+Package design in GOLang
+Technical Interview Prep #1: Collatz
+Code Briefing: Let’s celebrate Linux’s 25th birthday with 25 Linux facts.
+Cython: C Extensions for Python
+Review of One Month: Programming for Non-Programmers
+Python Decorators Demystified — Part 1
+Of Scaffolds and Gems
+The importance of an open source licence and how to add one to your project
+"I beg to differ here. Knowing code, at least basic HTML and Javascript, helps a designer to"
+So a product manager asks you to fix a bug...
+Go Walkthrough: encoding/binary
+Intro to Databases (for people who don’t know a whole lot about them)
+Optimizing Laravel 5 & MySQL for 9M+ rows. Step 2.
+Optimizing Threshold Secret Sharing
+Cage the elephant
+The CPU and The Memory
+How to Get into Software Engineering without a Degree
+Dynamic programming: Javascript how to
+"Browsers are broken, but nobody cares. All it took was 1 line of code to fix it."
+The grammar of Vim
+Setting up your ARM Chromebook for development
+Overture: A Haskell Prelude
+Analyzing Coreference Resolution Software
+Three JavaScript performance fundamentals that make Bluebird fast
+Separation of concerns rant
+Carwash Simulations & CPU usage
+Another step forward . . .
+Randomized Schedules in Azure Functions
+Write like you code. Refactor.
+How to build and install the latest Linux kernel from source
+Implementing a system call in Linux Kernel 4.7.1
+Software Engineer Cheat Sheet
+Confronting Jargon
+It’s parfetti time!
+How Not To Fight NSFetchedResultsController and Core Data
+Top 10 JavaScript Articles for the Past Month (v.August)
+File system features we encountered developing the Mail.Ru Cloud synchronization mechanism
+From Teaching Assistant to Front End Developer: an Interview with Steve Brewer
+Code Briefing: CSS positioning explained by building an ice cream sundae
+College degree? Or MOOC? Or Bootcamp?
+My Obsession with TypeScript Syntatic Sugar
+You Need to Stop Thinking and Start Doing (and actually finish what you start)
+How I challenged myself by learning how to code
+s3verify — A simple tool to verify AWS S3 API compatibility
+How I build my own spacemacs
+An Introduction to Spacemacs
+The best way to hire programmers: Make them code.
+The Magic Gate #justforfunc 3
+Podcast #28: Rational Geographic — Map Chat with Aaron Straup Cope
+What Is The Best Programming Language For Beginners?
+Computer Architecture 101
+The Unintentional Coder
+Tabata Timer in Elm
+Benefits And Features Of Python Programming
+What 2 Years of Android Development Have Taught Me the Hard Way
+Don’t Re-invent Finite State Machines: How to Repurpose Unity’s Animator
+A (mostly) comprehensive list of Swift 3.0 and 2.3 changes
+Debugging C and C++ with VSCode
+What is the “inconsistent use of tabs and spaces in indentation” error and why is it caused?
+Scala Tutorial: Create CRUD with Slick and MySQL
+React.JS Top 10 Articles in August.
+"Software Architecture What, Why & How ???"
+Bugs found in GCC with the help of PVS-Studio
+"How Full is your stack, developer?"
+ENV Variables
+Okay so What if... this ?
+A Beginner’s Very Bumpy Journey Through The World of Open Source
+Setting Up a .NET Core Server With Entity Framework Core Using a PostgreSQL Database
+Resizing Techniques and Image Quality That Every iOS Developer Should Know
+How to hack together a graphical Python debugger
+New Coders: How Salary and Time Spent Learning Vary by Demographic
+How to do Pair Programming The Wrong Way
+PeStudio Standard
+Covering Segments by Points
+Developer Community’s 9 Tips for Coding Beginners
+Why learning to code is hard
+Get Started with Vim & tmux
+10 Ways to Kill Pair Programming
+Every Single Project I Have Ever Worked On
+"GCC diagnostics are great, but they are not enough"
+Encrypted Code: How to Get Your Code Completely Re-Written
+Craft Academy: One Month of Bootcamp
+Top 29 online resources for web design training
+Projects and their benefits to understanding concepts.
+How not to bomb your offer negotiation
+5 steps to creating frustration-free Android test devices
+Node.JS Top 10 Articles in August
+What Makes a Good Developer Great
+Closures: Feature of Functional Programming
+Why Django Middleware is so darn cool
+Oddly Specific Numbers
+Selecting Exact Colors Using Xcode Color Picker
+What it takes to be great developer?
+Core Values for Software Developer
+So You Want to be a Functional Programmer (Part 1)
+"How to build a random quote generator with JavaScript and HTML, for absolute beginners"
+WTF Dial: Data storage with BoltDB
+Little Endian vs Big Endian
+Improving the Interpretation of Topic Models
+Technical Interview Prep #2: Pangrams
+"Modern Software Development, Analyzed"
+How I felt about the first week in Hacktiv8
+True Life: I’m a coder that is not good at writing algorithms
+Some Thoughts On Testing React/Redux Applications
+Inclusivity Is a Joke
+You will randomly bomb technical interviews. Everyone does. Here’s the data.
+A Few Good Tech Talks
+Grammaregex library — regex-like for text mining
+30 Days Of Code: Solutions
+You are not an Impostor
+Web framework for beginners
+Lincoln W Daniel
+Naming Variables
+Composite literals in Go
+It’s Teacher time
+"156 Million Github commits, 48 Thousand F-bombs."
+Implement Binary Search in TypeScript Using Generics With Useful Refactorings
+I read this article a few days ago and enjoyed learning about Shubheksha’s journey into open...
+7 Ways to Win with Pair Programming
+Let’s go back to Python
+Love or Hate — Macbook Air | A Programmer’s Perspective
+Building Web Applications Without Really Trying.
+Learning some new git commands..
+Ocaml: The Ultimate Config Format
+Admitting When You’re Not Good Enough and Then Learning More
+Waste is context sensitive
+Solving problems through clarifai Champions
+Master the JavaScript Interview: What is Function Composition?
+Scala Cats library for dummies — part 1 .
+Python co-routines with async-await
+How to Setup Vim for Golang Development
+Status Machina: Writing arguably better code when you have a field called status (or type)
+Rust on the Hologram Dash
+Programming Foundations: Check!
+Trust your objects
+Rechecking Apache HTTP Server
+How to be a bad coder
+Salesforce CIO Ross Meyercord on the Future of Coding (and How IT is Like a Therapist)
+Why Another Bootcamp?
+Live asynchronously.
+The simple math behind decimal-binary conversion algorithms
+Node.js module.exports vs. exports
+Type assertions in Go
+Why Your Next Mac Should Be a Hackintosh 🖥
+Web Development Top 10 Articles in August
+Pairwise Distinct Summands
+Fun exercise: sum of numbers through infinite currying in JS.
+Benefits of Contributing to Open Source
+Start Learning to Code Today
+Best Gitter channels: Mathematics
+"Many Paths, Many Styles, Many Connections"
+What Is This Github You Speak Of?
+Let’s Hear it for the Girls
+"V School Opens Office In Beirut, 40 Students (Including Syrian Refugees) Are Enrolled"
+Kotlin vs Java: Compilation speed
+A Beginner’s Guide to Squashing Commits with Git Rebase
+“Are empty interfaces code smell?”
+Go Walkthrough: strconv
+Machine Learning Top 10 Articles for the Past Month.
+Database benchmark: Realm Vs. SnappyDB
+Concurrent modifications with DynamoDB
+MongoDB tutorial : MongoDB schema design
+Advanced GIT advice. Tips and tricks.
+My First Year as a Software Engineer
+The Danger Of Relying On Abstractions
+Why should your kids learn computational thinking?
+Part 4: Bitwise Patterns
+Deployment for Dummies? (Clojure + Luminus + Mongodb + Digitalocean)
+6 posters to help make your digital designs more accessible
+Rabea Gleissner — Software Craftswoman
+Five Tips for Getting into Y Combinator (from Flatiron Grads Who Have Done It)
+How Wise Is the Conventional Wisdom on Cryptography?
+12 Programming Languages of Interest to Aspiring App Developers
+Implementing code into my day job
+The Bubble Programmer
+The Converting Datatypes Hack
+"Don’t lose the dream, you can change the world too"
+When I’m the only woman at an event.
+Create React apps with no build configuration
+GSoC at Wikimedia (Part 3 of 3)
+Basic Step about Java Spring Framework
+Don’t ruin your <img>
+WTF Was Wrong With My Go Code
+Debugging C++ with VSCode and GDB
+Python Top 10 Articles For The Past Month.
+The Rise of Frontend Functional Languages
+Rust’s Iron Framework: First impressions
+Prototype pattern in Swift
+Think Twice Code Once!
+A Toxic Techie’s Perspective
+Comparing Functions in JavaScript and Ruby
+Why I’m opening a Coding School in China
+JavaScript Through Bilbo’s Eyes
+Life After Text Mode: How I Learned to Stop Typing So Much and Love the GUI Again
+Day 1 → Types and type classes
+"Hi Rob,"
+How Can You Be A Better Programmer?
+6 Reasons Every Programmer Has To Learn JavaScript
+So You Want to be a Functional Programmer (Part 2)
+My favorite people and resources to learn Android programming from
+Unique partial indexes with PostgreSQL
+"Monads, Haskell, and Elm: A Socratic Dialogue"
+"It’s all about buffers: zero-copy, mmap and Java NIO"
+Interactive Java (REPL) shell.
+Refactoring to Collection — Notes
+"Eval is Evil, But Not Why You May Think"
+Watch Your Buffers
+The Best Resources to Learn About Compiler
+Shifting My Brain Towards Working Harder
+How to be a good programmer?
+Why I’m dropping Rust
+Generators and Channels in JavaScript
+Read Command Linux Shell
+How I tried to do things asynchronously in Golang.
+Why I chose Django over Java Frameworks for my recent project
+Reverse Your Arrows
+So he’s mad because he doesn’t understand traits
+Weekly Programming Challenge #7
+Pagedraw is hiring!
+Setting up a front-end project: Part 1
+A quick intro about Monads
+"Burn The Bridge, and Learn to Code!"
+Write Servers Not Websites — How to Start Learning Python
+"Changes, and lots of ‘em."
+Why you should build your own NoSQL database
+"12 versions of the same algorithm in JavaScript, Python, and Go"
+"Vim 8.0 released and Now, I’m a contributor of Vim !!!"
+"Coderoulette, a collaborative learning experiment"
+A little advice : How to learn everything on the internet
+Python’s elif in Go using switch
+We started a software book club
+5 Steps to Get the Most out of Coding Bootcamp
+Why kids should learn to code
+How To Hire A Junior Developer
+Cellular Automata Pair Programming
+Tell don’t Ask
+Improve Conversion by 7% with these Optimizations
+Resources that Have Helped me Learn Web Development
+Part 1 | FizzBuzz in plain English
+Algorithms With a Twist! Introducing Javascript
+"Learning to think with recursion, part 1"
+Properties Vs Fields In C#
+9 Places to Learn How to Code in 15 Minutes or Less a Day
+TensorFlow in a Nutshell — Part Two: Hybrid Learning
+Uniqueness in PostgreSQL: Constraints versus Indexes
+Primitive Data Types In C# Vs Java
+Understanding Data Types In C#
+How Toyota changed the way we approach code
+Rx — If the Operators could speak!
+Humans of Udacity: Tarja Mård
+WTF Dial: GitHub Authentication
+Part [1/6]: Publish Minio events via RabbitMQ
+A Case for Composition
+More About Strings In Java
+Method Syntax In LINQ
+Group Calling in webRTC
+"Tutorial : Turn your data into narratives using TextGenerator, Wikidata and Google Spreadsheet"
+Jquery.post doesn’t play nice with bodyparser.json
+"Hey designer, let’s dabble in code!"
+Type Systems: Reachability and Exhaustiveness analysis explained
+One Year Of JavaScript In Fifteen Min
+Why Bootcamps/Degrees/Certs don’t really matter in Software Development
+A Programmer’s Dilemma
+MySQL Provides a Simple and Powerful Database Solution
+Why eating virtual sand and being able to learn from it requires YOU — the adult
+Temporary Swap vs Destructuring assignment (Easy Swap) with BubbleSort
+.forEach() and .map() in javascript
+Hey newbie open source contributors: please blog more.
+"Type Systems: Covariance, Contravariance, Bivariance, and Invariance explained"
+“Premature optimization is the root of all evil” is the root of evil
+Spring MVC — How to pass list of values as URL parameters?
+Don’t Let These Tech Industry Myths Hold You Back
+Algorithm complexity analysis (The Big O notation)
+"How to manage your static websites with AWS S3, CloudFront, and a command line"
+How to Impress in a Junior Developer Job Interview
+Type Systems: Refinements explained
+"For, and Against, Hackathons"
+"A day in IIT, mentoring an Android Workshop"
+Update UniRx 5.4.1 and LINQ to GameObject 2.2
+Handlersocket is MyNoSQL
+9 Rescue websites for frontend developers
+Love your work
+The last person to need a bootcamp... needed a bootcamp
+"You Should Learn to Code, but Not for the Money"
+Every Javascript Tutorial is Utter Crap
+Interfaces implement composition.
+Learn the Building Blocks Before Building Your First App
+Building Better Job Support
+Swift Basics — Week 5
+How Does Java Help For Embedded Systems?
+Type Systems: Structural vs. Nominal typing explained
+How to Choose the Right Programming Language for Your Project
+Beginner’s Guide to Computer Science
+Event Delivery on iOS: Part 1
+Why Free Code Camp is Magnificent
+The Trick For Writing Better Software Lies On The Technique
+minio/dsync: a distributed locking and syncing package for Go
+"WTF Was Wrong With My Go Code, Part 2"
+14 Nand2Tetris opcodes “they” don’t want you to know about!
+Announcing Codepath partnership
+One step forward while ‘pry’ing into Ruby code
+How to be a self taught Coder
+Code: Awful?
+Anatomy of Go source file
+How to avoid bugs using modern C++
+Protobuf on AppEngine
+How to prepare for competitive programming ?
+The 6 most desirable coding jobs (and the types of people drawn to each)
+How to average RGB colors together?
+Introduction into Channels and Transducers in JavaScript
+The step-by-step guide to GSoC
+D3v4 forceSimulation with React
+Obfuscate your C# code in Unity3d
+"Better akka, Spray metrics with kamon"
+Rust’s Iron Framework: Getting Started
+Are these Nigeria’s Top Programmers?
+CS50 At UCL
+9 Quick JavaScript Tips to Improve Your Code Pt2
+PostgreSQL — BRIN Index
+GDB — a tough nut to crack: only a few bugs found by PVS-Studio
+Musings of three bootcamp graduates
+So You Want to be a Functional Programmer (Part 3)
+Twelve Fancy Chrome DevTools Tips
+How to be great at asking coding questions
+"Wit.ai Explained — Part 1 — Bot Engine, Stories, and Actions"
+Android Vector and DataBinding Marriage part 2
+Configuring Sublime Text to be awesome
+Rust’s Iron Framework: Serving Static Content
+Teaching Yourself Web Development in 6 Months
+Eyecandy Golang Error Reporting
+Growing as Software Engineer
+My journey to becoming a Developer without a CS degree : or How I lied my way into a job and bluffed my way through a few years building things for the web.
+Of closures and objects
+It Starts With A Hello
+Algorithms in plain English: time complexity and Big-O notation
+Why I’m writing a Windows 3 Emulator
+How to display code blocks in Medium
+How to build a serverless NodeJS microservice on AWS Lambda
+Javascript Function Methods: Call vs Apply vs Bind
+Fitting the Pieces Together
+Writing Expressive Code
+Using Gradle Composite Builds for Plugin Development & Debugging
+Great write up and interesting research about who is learning to code.
+My Top 3 Values
+Programming 101 for Complete Beginners
+First Few Days with React
+My experience rewriting Enjarify in Rust
+"Ruby vs Python, the Definitive FAQ"
+Retracing Original Object-Oriented Programming
+How to publish your own Python Package on PyPi
+Redux -An Explanation for Beginners
+8 tips for learning how to code on your own
+Swift or Objective-C? Tool Tips for iOS Developers.
+"NodeJS is not magic, and you are not a Wizard"
+Programming Is Like Traveling the World
+"Accelerate Web Test Automation, Part 1"
+How I fell in love with React (Part 1): First Sight Love
+How Joel on Software’s helped shape the Ukrainian IT industry
+"I am not a robot, I just play one at work"
+Adapting an Objective-C API to Swift 3: Taming Wirecard’s PaymentSDK
+How to get CESM 1.2.2 Running on Mac OSX 10.11.6
+Best Gitter channels on: Rust
+Hack Reactor Rollup Week 1
+Scratch Foundation Update: Summer 2016
+From Teacher to Techie
+VIM mode in Quiver
+The ‘new’ keyword — Object Creation in JavaScript Part 4
+11 command line tricks that you boost your productivity
+"Learning to code — This time, I’m actually going to do it"
+Let Us Help in Grooming Software Developers in Nigeria
+Computer science: more than you and a computer
+Five tips for iTerm
+Implement a Stack in JavaScript
+Implement All Permutations of a Set in JavaScript
+Everything Dies (In Tech)
+Torrenting the galaxy
+Coding bootcamps also teach you how to get rejected 10 times a day.
+The Engineer’s Guide to Desks
+Top Blogs About Web Design And Web Development
+Getting hired as a freelancer comes down to one thing: trust.
+Monitoring with InfluxData’s TICK stack
+Your ideas are important — share them with the community
+Flaky Tests (And How To Avoid Them)
+Android Calendar Provider (An Untold Story about Recurring Events and Event Exceptions)
+Vim Script Parser written in Go
+How I Found a Job That Makes Me Feel Good As a Developer and a Person
+JavaScript Is Different
+Your choice of 14 major programming languages
+Part [2/6]: Publish Minio events via Elasticsearch
+HackerRank Week Of Code 23
+Mastering the Basics
+Need for speed with mongoDB and Python
+Pair programming: Absurd or nah?
+Listening To Music While Coding. Good or Bad ?
+Hello World!
+A practical approach to software architecture
+Featured Partner: GitHub
+"Jesse, well written article and very brave of you to share what must be your most personal..."
+The Women Who Coded the Future
+4 Reasons To Have SSL Certificate
+The Key to Continuous Self Motivation
+Android Handler Internals
+How to find your first open source bug to fix
+Go Walkthrough: fmt
+"Program to where the performance puck is going to be, not where it has been"
+Win3mu Part 2 — Initial Design Thoughts on Building a Windows 3 Emulator
+"Making Sims Have Freaky Sex is a Tough Job, but Somebody Has to Do It"
+Programming Pearls and Python Fails
+Benchmarking atoui(): a follow-up to Writing Fast Code
+Crying out loud: things I dislike in F#
+Implement a Queue in JavaScript
+"For Go builtins, nil and empty read the same"
+A Deep Dive Into The Nigerian Developer Ecosystem(INFOGRAPHIC)
+Teach Your Kids to Code
+Implement Even Occurrence in JavaScript
+Git all the things
+Database Schema Design Tutorials
+Your Journey Is Important. Share it.
+Four Cool Things About Java
+"Dear Dev, again..."
+Attending GitHub Universe 2016
+Operation Code Visits Github Universe
+Why Mr. Robot is the best show you can watch today
+Twitter for C++ Programmers
+Things you probably didn’t know you could do with Chrome’s Developer Console
+Optimizing optimizing: some insights that led to a 400% speedup of PowerDNS
+An in-depth look at Kotlin’s initializers
+Implement a Binary Search Tree in JavaScript
+Meet Moq: Easily mock interfaces in Go
+Service discovery and load balancing with Hashicorp’s Nomad
+My adventures in Rust webdev
+Vim setup for a designer/front-end dev on macOS
+Creating a secure URL with an expiration date from S3
+To do: write “to do” app with ASP.Net Core
+The Disappearing Act
+Commonly Confused Titles in Software Development
+How To Create A Hack With Style
+Improving Arrays in Hack
+Organizations Realize Transformative Benefits with MongoDB on AWS
+Safer Software with Cautious Code
+"Cohesion, Coupling and Abstraction"
+A sip of coffee with characterization testing
+"Program to an interface, not an implementation"
+How Pylint made me a better coder
+Github Universe 2016 and Operation Code
+The Developer’s Block
+Programming has kidnapped my life
+How coding made me a better writer
+Asynchronous Python
+Why Elm is Going to Change the World
+Creating Android JAR and AAR plugins for Unity
+"10 Books, every computer science student must read."
+Think Like a Software Developer
+Oracle Sample Database in SQLite
+Taming the Massive Controllers in iOS Part 2
+Inventors4Change
+Adding semantics to graph databases with Grakn. Part 4
+Blow my mind!
+Less known facets of a good software engineer
+"Writing Flowtype annotations for Ramda: Add and Subtract, Continued"
+How learning to use Git reminded me of transitioning out of the Marines
+The Accidental Developer
+Gfycat Announces $10M Seed Round and API Release
+100 Days of Code — Comfort and Ambiguity
+Coding Styles in Android Development
+So You Want to be a Functional Programmer (Part 4)
+Why The Hipsters Recompose Everything
+Why do we use hexadecimal?
+Elixir console application with JSON parsing. Let’s print to console!
+Go: Timeout Commands with os/exec CommandContext
+Are You an Engineer or a Developer?
+How to Automatically Unzip Files Downloaded from Chrome on Windows
+Building a Simple File Upload App with Angel
+Why should we learn competitive coding?
+Press Start to Continue
+The Poset of Relational Structures
+Essential JavaScript Array Functions
+On enrolling in a coding bootcamp
+Win3mu Part 3 – The CPU
+RxSwift Subject Types
+Eertree (or palindromic tree)
+What is a scripting language?
+"Dream hard, work harder"
+flow.ci Weekly Mashup 13
+Why I became a Software Developer
+So You Want to Be a Web Developer
+"No, it doesn’t."
+"If you want to learn Data Science, start with one of these programming classes"
+Supercharge Vim with Fzf and Ripgrep
+How to round binary numbers
+RESTful Services Part II : Constraints and Goals
+Tweaking Configuration For React Scripts In Create React App
+How to reverse a string in Ruby without using the reverse! method
+The Rules of Optimization: Why So Many Performance Efforts Fail
+Lenses: A way to uncouple shared state
+How I Wrote a Client-Server App in Two Minutes Flat
+Post mortem: When database queries take you down
+There Is No “User”
+3 ways to fix relative paths in NodeJS Require
+Why I love programming
+“Simple statement” notion in Go
+Developing A Web-Development Curriculum for Self-Study
+Building a Bash-like application
+Don’t Overlook Online Immersive Bootcamps and Here’s Why
+How I fell in love with React (Part 2): Environment
+5 Answers From A Woman In Tech At Bloomberg
+Introduction to privilege dropping in C
+I agree in everything with you up until “Why are C++ exceptions so useless”.
+Learning Unity At Big Red Hacks
+Killing monsters and building software
+Pixels Camp Quizshow Challenge #2
+Get Rich or Die Coding
+"Recursion, Recursion, Recursion"
+TensorFlow Serving practical introduction.
+Introducing Tensorflow Ruby API
+Developers — What Handmade Hero is and Why you should watch it
+JavaScript Top 10 Articles in September
+Image Recognition in Ruby Tensorflow
+Understanding the rules of variable scope in ES6
+Ruby Tensorflow for developers
+5 Fun Ways to Start Learning Python!
+Singleton in Swift
+Evaluating MySQL Parallel Replication Part 4: More Benchmarks in Production
+"Code Briefing: recursion, recursion, recursion"
+Refreshing Data Structures and Algorithms
+A Pre-Med Student’s Guide to Getting a Web Development Internship
+What’s New in C# 7.0
+A journey through API programming ― Part 4: Posting to Medium
+"“Begin at the beginning,” the King said, very gravely, “and go on till you come to the end: then stop.”"
+How to Setup first Development Environment on Ubuntu
+I Am Quitting My Job To Join A Web Development Boot Camp
+"Well, I don’t think there is any top programmer, I feel there are people who just don’t know that..."
+The Technology Behind A Low Latency Cloud Gaming Service
+Initialization dependencies in Go
+Win3mu Part 4 — Protected Mode
+10 Things I Wish I Knew Before I Started Programming
+Implement Bubble Sort in JavaScript
+React.JS Top 10 Articles in September
+12 Keyboard shortcuts every programmer should know.
+You should learn to write JavaScript in a functional style
+Writing your first Gameboy game
+The art of asking questions for developers
+GenStage: My Alternative To Certain Parallel Stages
+The difference between Entry Level & Junior Developers
+Full Stack Development and Go
+16 Inspiring Women Engineers to Watch
+Writing Flowtype annotations for Ramda: Polymorphism and R.any
+Chrome’s console.log is the slowest
+Lesser known Git commands
+Data denormalization is broken
+Embracing Functions in React
+How to View TLS Traffic in Android’s Logs
+Breaking the Loop: How to use higher order functions to process arrays in JavaScript
+From Unemployed to Accomplished Developer: an Interview with Scott Cook
+Implement Insertion Sort in JavaScript
+Becoming the best developer in the ‘world’
+Node.JS Top 10 Articles in September
+Supercharged JavaScript functions with ES6
+Programming Languages For Social Networks
+What you need to know about sorting algorithms — JavaScript
+Python Features I Wish I’d Known Earlier
+The tools I use for faster development
+Tales from IMAD (India’s largest MOOC)
+A “Bucket List” for Programmers
+What Is The Noise Argument?
+Building the #1 ranked coding education
+"A NY Times Head Engineer On His Steps To Not Only Hire, But Retain More Women"
+Josh Adams and Corey Haines — Pair-programming and Test-Driving a Game of Life Parser in Elm
+"The instance is dead, long live the instance"
+Deciding like a robot. NOT! (Boolean Expression in Ruby)
+Wow: This Commodore 64 In Hungary Is Still Being Used To View Pornography
+Lessons Learned from a Coding Marathon
+Doing Things Right vs. Doing Things Fast
+Developer Goals 2016
+"On code beauty, and software as a painting"
+Hello World
+What does it mean when code is “easy to reason about”?
+Implement Merge Sort in JavaScript
+5 usefull tips to write cleaner LINQ code
+Why React
+Experimenting with @AnnotationProcessor
+Getting started with the LINE Bot API and LINE Beacons
+Recursion Revealed!
+Five Reasons to Learn JavaScript
+Your badass Machine-Learning algorithm is not working as expected?
+Herzog’s Cave of Forgotten Code
+How to speak software [part 1]
+Life on the Edges: September 2016
+Telnet Chat
+Being an Impostor
+"We’re Going to Mars, and We’re Going to Need Programmers to Get There"
+C++: Basics
+Hiring a CA Bootcamp Graduate
+Jumping in the deep end with no armbands
+Automated Checks for quality of code
+So You Want to be a Functional Programmer (Part 5)
+NodeJS interview questions
+Web Development Top 10 Articles in September
+Implement Bucket Sort in JavaScript
+Advent of Code with Kotlin [Day 1 to 7]
+"Your motivating query should have good performance with the usual FK indices, an index on message..."
+How to Write Command Line Programs Using Multiple Libraries in Swift
+Pixels Camp Quizshow Challenge #4
+Strange Loop 2016
+How to Implement Collapsible Table Section in iOS
+Executor Framework- Understanding the basics (Part 1)
+Win3mu Part 5 — Windows 3 Executable Files
+Runtime Introspection of Flow Types
+Get Started Programming
+Code Briefing: What does it mean when code is “easy to reason about”?
+There is no perfect code
+Dreams of Code: 5 Attributes of a Great Programmer
+Patricia Ehrhardt: Conquering Her Goals and Coding Over 40
+Learning to THINK like vs Learning to BE a programmer
+"Skills > Tools, always."
+How it feels to learn JavaScript in 2016
+init functions in Go
+TensorFlow in a Nutshell — Part Three: All the Models
+How to Split a String — Swift 3.0
+Object Composition Patterns in JavaScript
+Intuition behind permutations and combinations
+How to manipulate classes without jQuery by using HTML5's classList API
+"If You Want To Be A Programmer, First Develop The Mindset Of One"
+Algorithms Top 10 Articles in September
+The SQL Alternative To Counter Caches
+10 Reasons Why We Should Teach Kids To Code
+Which is the Best MongoDB GUI? — 2016 Update
+"Golang -> Dealing with protocol buffer, omitempty and boolean json responses"
+Building Online Communities: Keras.io
+Pragmatism Over Purity
+Programmers don’t need a co-founder
+Better VS Code living through Keyboard Shortcuts
+Meet the Educator: Morgan Kayman
+__proto__ vs prototype
+"Thoughts on coding bootcamp, week 1"
+"2 years with Scala, Microservices, Galera and Ansible: Scala"
+How I fell in love with React (Part 3): First Projects
+How And Why I Joined a Code School
+"Chatbots, and how will Microsoft help us with this?"
+To all programmers: stand up!
+I’m a Software Developer. Why and How did I get here?
+My grandmother taught me to use a computer
+How to use Facebook Graph API and extract data using Python!
+A Technical Follow-Up: How We Built the World’s Prettiest Auto-Generated Transit Maps
+The cost of forsaking C
+React Props/State Explained Through Darth Vader’s Hunt for the Rebels
+Elasticsearch as a Graph Database
+"Reverse engineering visual novels 101, part 2"
+Holy Crap: You’ve Been Coding JavaScript Like A Moron This Whole Time
+"Epic high five, we just beat an enterprise algorithm"
+Code Briefing: using Darth Vader to explain React
+Five Principles of Self-Teaching Development
+Scholarships @ rmotr.com
+"The Whole point of this piece is that in order to do something a little better, you need to learn..."
+12 Weeks as an iOS Developer Apprentice
+The Poet and the Variable
+How to Submit to The Bit Theories
+Chasing Tools
+I just had to check ICQ project
+Closing closed channels
+Another rant on technical interviews
+Stop blaming on JavaScript when all you want is to talk about Front End
+9 Places to Learn How to Code in 15 Minutes or Less a Day
+Cast to Number in Javascript using the Unary (+) Operator
+Win3mu Part 6 — Memory Management
+CSS Top 10 For The Past Month
+Docker Kata 006
+Breaking Down Big-O Notation
+Elixir broke my imperative mind
+Data Structures & Algorithms for humans
+How profilers work
+Introduction to JSON + JavaScript
+"Underpinning all of this, is just one thing... JavaScript code."
+The Glory Days of the Web
+Part 2 | FizzBuzz TDD
+How We Implemented the Puppet Tool in Animatron: a Step By Step Guide
+“Don’t You Miss Programming?”
+Getting started with Go and the AWS SDK
+"Principles, Patterns, and Practices of Mediocre Programming"
+"Music and product management: How it all connects for Lourdes, the Product Manager at VEON"
+Career Change: How One Women Went From Project Manager To Engineer At Slack
+NoSQL: document store basics
+Intro to Closures { }
+Do Good With Programming
+Don’t Just Be a Hacker — Be a Developer
+What are employers looking for in a developer?
+My First Open Source Adventure
+Machine Learning Top 10 Articles for the Past Month.
+Scala’s immutable collections can be slow as a snail
+Setting up OpenCV for Python 3 on macOS Sierra with 5 easy steps
+How to learn C
+Python Decorators Demystified
+Passing by assignment in Python
+Why Your Default Setting Should Be Open Source
+Why it’s called bubble sort.
+Firehose Project Review
+Laravel Form for Update / Delete
+What Is The Legibility Argument?
+"On Refactoring, Workshops, And Being Reviewed"
+Encapsulation & Private Methods
+Please badmouth CSS more in developer talks
+The urge to improve experiences
+So You Want To Be A Coder...
+The Bradfield School web page may be overstating salaries
+Modern Careers for Generation Flux.
+Why this blog
+PHP vs Ruby vs Python: Which Language is the Best for Your Career and Prospects
+I in SOLID
+Step-by- step Web Hosting Setup for Developers
+How to send emails using Python
+JavaScript Fatigue Fatigue
+Mind blown: the fast growing hierarchy for laymen — aka enormous numbers
+WTF Dial: HTTP API
+Nomad Game Engine: Part 4.1 — Generic Component Managers
+rails generate association
+Can you create recursion using only anonymous functions?
+Using Swift with gRPC
+(RE)PROGRAMMING YOUR PARADIGMS/SUBCONSCIOUS MIND
+Guest Post: “Succeeding in Rutgers Computer Science” by Vaibhav Verma
+Spoken by someone who’s done nothing but web development.
+Visualizing for-in Loops for Beginners (Swift 3)
+I Finally Updated PoopLog for Android
+This Mum codes
+The Science of Learning Programming Effectively
+Technical? Non-Technical? Both!
+My first step into development
+Why Python? In less than 60 seconds!
+The B<?>g
+Can’t trade coding for anything else
+Why using finalizers is a bad idea
+Developing as a developer — a journey through learning
+What you don’t know about web development
+[]byte vs string in Go
+#ReactForNewbies: Building a Todo App with Create-React-App [Part 1]
+Switch Java versions on any systems you like
+Executor Framework- Understanding the basics (Part 2)
+Keeping it simple
+What is Eclipse Che?
+The Keyboard Shortcuts Hack
+Preparing for IEEEXtreme 10.0
+Rust’s Iron Framework: Handlebars’ Helpers
+"I think the point you’re missing is that no, you’re not getting around to it, because the..."
+Getting Started with Coding Competitions
+Working Remote
+Jumping the Gap — Data Transmission Over An Air Gap
+Why learning programming by yourself is hard?
+Landing your dream job is not rocket science
+The Coming Renaissance of LISP
+Secrets of a Successful Tech Interview
+First Week of Cuny Codes
+Is Model-View-Controller dead on the front end?
+Why I stopped using storyboards and Interface Builder
+"Domo arigato, Mr. Smalltalk"
+Win3mu Part 7 – Thunking
+Debugging Neural Networks: A Checklist
+Large Text Indexes in Postgres
+How Crowd Curation Improved Our Search Quality by 27%
+Software Engineers are Eating the Business World
+What computer science teachers don’t teach you
+The O in S.O.L.I.D : improving without even touching
+Rails vs Django vs Laravel: An analysis of web frameworks from a non-technical founder
+"bytes.Buffer, I thought you were my friend"
+Using Electrode to Improve React Server Side Render Performance By Up To 70%
+ES6: Constructive Destructuring
+Go’s Testable Examples under the hood
+Contributing to the Server-side Swift World
+你所不知道的 JS 筆記&心得(之一)
+Thinking about Distributed System (from Rails point of view)
+Working With Hash Values and the Hashable Protocol
+We tried Groovy EE — and what we have learned from it
+How I fell in love with React (Part 4): Sharing Worldwide
+Rituals and Chrome Extensions
+Unity game pair programming
+Open Source at Edenspiekermann
+Scala Warrior: Game for learning Scala
+React JS and Flux Web Development for Beginners
+Front-end and Back-end: Together but Separate
+Swift Ranges
+How to be* a compiler — make a compiler with JavaScript
+Upgrading to macOS Sierra will break your SSH keys and lock you out of your own servers.
+Building an “Oracle” for an Ethereum contract
+Path Finding Algorithms
+Stuck on a Coding Problem? Here are 5 Steps to Solve It
+A documentation crash course for developers
+Developing our first Ethereum app (DApp)
+Multiple Linear Regression in Machine Learning
+Flow daily routines — create habits that boost your productivity
+"Be a Mentor, Not a Bully"
+Programming Language Limericks
+A Game Of Lists
+Exploring The Power of Sets — Swift 3.0
+Code Briefing: The state of JavaScript in 2016
+JavaScript was built in 10 days.
+Here’s To The Power Of Dreams...
+Programming: from Hate to Passion
+Ada the Language: Alive and in Flight
+"Google Code-in begins for students from November 28, 2016"
+Linux — The Productive Programmer’s Best Friend
+"Cold, Code and Coffee 😉"
+What is the difference between a hard link and a symbolic link?
+What if We Made Bots from Real People?
+Taking PHP Seriously
+What an in-memory database is and how it persists data efficiently
+GoLang or the future of the dev
+"Designing the schema of Realm effectively, and other Realm tips"
+No more value classes boilerplate — The power of AutoValue.
+5 Challenges That Can Break Your Continuous Integration Efforts
+An Intro to Vim Macros
+Python Top 10 Articles For The Past Month
+Win3mu Part 8 — The Module Loader
+If doctors were like coders
+What Do Developers Really Get Paid To Do?
+Cassandra vs. MongoDB
+A Journey Back Home
+13 Kickass Talks by Women In Tech
+Debugging the learning process
+"Learning iOS from scratch, where to start?"
+"The Journey to Fullstack, Part 1: The Beginning"
+Mundane Monads in Meager Minutes
+"Thoughts on coding bootcamp, week 2"
+This is Why Whiteboard Interviews are Hard
+Learn the DNSimple API by Bulding a CLI in Golang
+Part 2: The Goodies of Technical Documentation
+How Kafka’s Storage Internals Work
+Here is what you need to know about JavaScript’s Number type
+Panicking like a Gopher
+How To Destroy The Myth Of The Proper Solution
+Interacting with javascript from WebAssembly
+The 4 Steps of C compilation
+Command history in interactive Python interpreter
+Coding is NOT the new literacy
+Competitive Programming: Towards a New Era of eSports?
+GOLANG: EASY DEVOPS
+What happens when you type GCC main.c
+"It’s not you, JavaScript fatigue, It’s me"
+Make your own Ruby gem!
+JavaScript in Plain English: Functions and Closures
+GitExtensions bugs found and analyzed
+The Essential Guide to Building Balanced Development Teams
+Vim vs. Emacs: How to Think About Them — And Choose Your Editor
+Changing existing text in a PDF using iText
+Using character sets in Swift
+Ajax Form Submission along with Image Upload in Nodejs with Multer
+Write your first web scraper in Python with Beautifulsoup
+CSS Utility Classes: How To Use Them Effectively 🔥
+EcmaScript 4 was too far ahead of its time
+From zero to ten PRs: How I survived my first month as a software developer at MLS
+How We Implemented Lazy Registration Using Elasticsearch
+Object-Oriented JavaScript
+How to break into the development industry.
+18 Most Common Python List Questions
+How to never graduate
+My journey in contributing to Open Source
+Learning React in two weeks
+Code && Literature: More Similar Than You Might Think
+"Six Lessons about Interviews, Algorithms and Your Career"
+The best way to learn AngularJS
+The Force of Habit: 9 Weeks Later
+The Crystal Language and Internet of Things with Ruby!
+Modern Ruby Development Tool
+React Native With An Express/MongoDB Backend
+Microservices are much more than just another name for SOA
+Whiteboarding: Let’s get quantitative!
+Taming the Massive Controllers in iOS Part 3
+Coding Boot-camp — Week 3
+“One App To Save Us All...”
+44 New Cool Websites and Apps to Learn Something New
+Form Validation As A Higher Order Component Pt.1
+#ReactForNewbies: Building a Todo App with Create-React-App [Part 2]
+dotGo 2016: It’s A Man’s World
+在 64bit CPU 上計算 16bit 數字的 bit 數
+5 tips on how to read someone else’s code.
+Algorithms that changed the world to as we know it
+Solutions to problems that featured in ACM ICPC (Olympics of Programming Competitions)
+Redirecting Devise Users To Their Last Visited Page
+Command and Control in Open Source — the right to split
+Understanding the developer ecosystem in West Africa Part I
+Using Pull Requests and Git Log to Learn a Project
+Angular’s “Put” and the deceptive beauty of frameworks
+Here be dragons
+Angular 2 and D3: Build A Chart Component
+Adapter pattern in Swift
+Exploring JavaScript: Typed Arrays
+Form Validation As A Higher Order Component Pt.2
+Experimenting with “mutation testing” and Kotlin
+Win3mu Part 9 —Path Mapping
+How does an OS enable virtual memory?
+“Looking for a job? Don’t lose hope or confidence.”
+Is C WebScale?
+Learning JavaScript: Prologue
+INTERNSHIP
+A dance with logic
+One Week Using a MacBook Pro as a Programmer
+Three ways you can find the largest number in an array using JavaScript
+Solving Performance Problems in the Django ORM
+"The Good, The Bad and the Ugly of VIPER architecture for iOS apps."
+So I benchmarked Yarn against the 4 most popular CI tools.
+From Mac to Linux: Web Development with Linux
+Variadic functions in Go
+Thinking from Scratch with Sets in Swift
+How to avoid latency spikes and memory consumption spikes during snapshotting in an in-memory database
+Express Generator with Socket IO
+Open Source Ideas Initiative
+"The Journey to Fullstack, Part 2: The Bootcamp Admissions Process"
+Overriding (globally) field label suffix in Django
+An Incomplete List of Reasons I Love Microsoft
+Getting Hired at Google
+AndXP: A Femnist XP Unconference Write-up
+5 makers of the most popular programming languages
+How I fell in love with React (Part 5): Miscellaneous
+30 days to become better at programming
+Throw out your tools
+Swift — Write Concise Networking Code with WS☁️
+Defensive Contempt in Programming
+Data science with Pandas in Python 3
+A novel association took excitement to a whole new level (October 12–16)
+The Complete MATLAB Course #1:An Ultimate Guide For Beginner
+5 Git Fundamentals
+Learn how computers work
+How to write storyboard-free views in Swift with SnapKit
+Five types of developers & designers I have worked with
+"How to build Real-time App With Angular 2, Loopback & Fireloop.io"
+Tidy Fridy — a plan for ongoing code care
+How does a higher half kernel work?
+Evolving MySQL Compression — Part 1
+Your code is probably good enough
+JavaScript Garbage Collection
+A Simple Embedded Probabilistic Programming Language
+Which programming language should you learn first?
+Recursion: The alternative to iteration
+It’s not magic: using call() in javascript
+Code Briefing: A million views a month on Medium
+"“And what is the use of a book,” thought Alice, “without pictures or conversation?”"
+Stepping into Development
+Playgrounds: Swift and Apple Developers Conference
+30 Days of Python | Unlock your Python Potential
+C++ Memory model
+Don’t be an X Developer
+Hungarian Notations
+Hello World
+What I learned from reading the Redux source code
+Win3mu Part 10 — Leveraging Reflection
+A Test Drive of Bubble.is: A Visual Programming Tool
+Fun Flash Cards — React Native App I built with my daughter
+A javascript watcher that works just right
+Using RefTree for Visualizing Data Structures
+Tools for Pair Programming
+Asynchronous Behaviour Trees
+How to defeat wordfence protected wordpress
+Work ethics I have flourished as a developer
+Safer Storyboards in Swift
+Mastering Node.js: Nodejs Development from Scratch
+Are service objects enough?
+Zero to Hero with React and Redux
+HTML 5.1 is On Its Way!
+How To Accept Over-Engineering For What It Really Is
+The winding path of being a developer
+Big O Notation in JavaScript
+From Image to Bytes (and Back Again)
+Interface Pitfalls and Harnessing io.Reader
+How to create your own native bridge
+Redux First Steps: Shotgun Episode 5
+Introducing SQL Support (Beta)
+12 Things Web Developers Must Include in Their Portfolios
+An exercise in refactoring
+JavaOne 2016: The Outcomes
+Medium Editor Image Uploader Override with Rails
+How write implementation help me understand the raft paper and lessons I have learned
+"Why I built Funcr, a collaboration tool for solving harder code problems"
+OverReact(ions) — A Tale of React
+Your weekly JavaScript updates — Week #42
+RMS : In-House Geo-Spatial Search
+Working with iOS Image Filters in Swift
+The Python Mega Course: Build 10 Python Applications
+DSL builder in Kotlin
+"Learning to think with recursion, part 2"
+How to use transfer learning to create an image classifications engine
+Functional Programming in Bash
+Crystal: Ruby syntax with almost C efficiency
+Generics — What is this “Element” parameter I keep seeing? (swift 3)
+Populating GRAKN.AI with the World
+PHP Bytesize : Optimizing file handling (Part 2: Write)
+Hello World for Asynchronous Behaviour Trees
+"The Journey to Fullstack, Part 3: The Final Decision"
+Understanding the developer ecosystem in West Africa Part II
+14 Ways to Contribute to Open Source without Being a Programming Genius
+Quick Start to React Lifecycle Methods
+Week 4 Makers Academy Remote
+How to Build your Own Uber-for-X Application
+The easy (and nice) way to do CLI apps in Python
+CSS Flexbox Explained by Road Tripping Across the Country
+Different ways to debug JavaScript code
+Four days with Action Cable
+Show layout bounds in iOS
+Why you should attend a coding bootcamp
+Which Programming Language Should you Learn First?
+Why don’t you pick EmberJS when building your next Single-Page Application?
+Go Programming Language Analysis — I
+Writing good code.
+What is (not) required for you to become a developer
+How many lines of code is your app?
+Front End or Back End Software Development?
+Beginners Guide to Installing JetBrain’s CLion on Windows for C++/C
+How to design APIs that don’t suck
+An Ode to Async-Await
+A brief history of languages
+reviewdog — A code review dog who keeps your codebase healthy
+Learning To Code: For My 14 Year Old Niece
+The university education system ‘failed’ me
+Writing an 8086 Debugger in C#
+Code Briefing: CSS Flexbox is kind of like a road trip
+There are only 24 hours in a day! How to manage your time in a boot camp.
+"Teach Your Computer to Sing With Ruby, Bash & SoX"
+What is the best?
+Algorithms Everywhere: Random Number Generator
+Are you up to date ?
+7 ways to stand out as an IT student
+"9 Questions by Programming Students, Answered"
+After A Year Of Using NodeJS In Production
+Why I’m Switching From Python To NodeJS
+The Ultimate Reading List for Developers
+"How to write fast, fun command-line applications with Golang"
+An introduction to how JavaScript package managers work
+Conversions in Go
+The Story of Object-Oriented Programming
+"Read, Search, (Don’t Be Afraid to) Ask"
+How to write a MapReduce framework in Python
+Row Fragmentation: Share the Mutex
+Useful visual studio code keyboard shortcuts.
+The untold story of Github
+Learning to Code : The Seven Kerfuffles Of Online Tutorials
+Using Python Mock to Haunt Your Code
+8 Albums Developers Told Us They Love Programming To
+Invariants in Code Design
+React-Native apps now can be run on Ubuntu
+Merging Local & Server Collections in MeteorJS
+Top terminal/unix commands and tips to boost your productivity
+Hourly Billing is Nuts
+Building on the shoulders of giants
+Chingu Weekly Vol. 1
+"React, Git, & Working with Developers"
+while(self++) { #1 } // So It Begins
+"Will Continuous Delivery Kill the Software Tester?
+by Justin Rohrman"
+And so the journey begins
+How to make lemonade
+Applying the Linus Torvalds “Good Taste” Coding Requirement
+39 Open Source Swift UI Libraries For iOS App Development
+A Gentle Introduction to Data Structures: How Stacks Work
+Step by step breakdown of /dev/null
+ARC: Strong and Weak References in Swift
+How to write your own Python documentation generator
+Android Notes 41 : How to save and get HashMap into SharedPreference [UPDATED]
+React-Native apps now can be run on Ubuntu
+Learning to program good
+Understanding Genetic Algorithm
+"Yes, No, Maybe, Don’t Know, WTF: the limits of Binary Logic and the Importance of Forgetting"
+Making Art from the 30k Photos Clogging Your Computer
+Working with NRF24L01+ communicating with NRF24L01+PA+NA.
+Android 7.1 Shortcuts under 5 minutes
+JavaScript functions series — seven ( Closures)
+Big Diff
+developers...
+The thin line between science and opinion in software industry
+Practice what you Preach
+Learning JavaScript In 2016 : A Code Camp Review
+My Top Three Git Commands
+PVS-Studio for Linux
+Gladiabots Inception
+How to Land Your First Development Job in 5 Simple Steps
+Code dependencies are the devil.
+Bullet Proofing Django Models
+Writing a Simple Math Expression Engine in C#
+Reversing an ELF from the ground up
+It’s time to get in over your head
+Solving a simple crackme using Z3
+Xtreme 10.0 Walking Dogs
+How to Crawl the Web Politely with Scrapy
+Composing functions in Kotlin with extensions and operators
+How I Submitted an iOS App in 2 Months
+"Quo Vadis, Scala?"
+Performance of basic Ruby types
+Meta-execution
+My Time At Fullstack Academy
+"xchg rax,rax"
+3 weeks into grad school and I dropped out
+"Heading for a Record: Chromium, the 5th Check"
+Learn the language.... Stop blaming Javascript!!!
+A chill at Swahili Box — with some Python Code
+Learn How to Code
+Apple to developers: There is no escape.
+"Algorithms for Beginners — Bubble Sort, Insertion Sort, Merge Sort"
+"The Absolute Beginner’s Guide to Test Driven Development, with a Practical Example"
+Reading and Generating QR codes with C# in Unity 3D — the easy way
+RESTful Services Part III : HATEOAS and The Richardson Maturity Model
+Designers Who Code For Real Learn For Real
+Python: How to open a file on Windows without locking it
+Why Encoding Matters: A Primer on Bits and Bytes
+How To Stop Discussing About Subjective Matters
+Python iterators and iterables need not be the same!
+How to code when you don’t know how to code
+Golang: Understanding Slices through Code
+Swift on the Server
+Linux version of PVS-Studio couldn’t help checking CodeLite
+Why are Indian programmers not as good as other programmers?
+Coders Plus <”+”>
+Let’s start with a misconception
+Legacy Information Systems
+Using Python and EngagedCount to get your social engagement metrics
+travel/work/study — coding on the go
+Six graphs to understand the state of Artificial Intelligence academic research.
+How to Screw Up Singletons (in PHP)
+Zero boilerplate delegation in Kotlin
+Don’t Go Back to Your Comfort Zone (Interlude 1)
+Boot
+Technology Stack (Basic) — A Guide for Non-Tech Co-founders
+Little Ruby tricks
+Managed effects and Elm
+Getting started with Kernel.format
+"Sorry, this post about the new Macbook Pro being unsuitable for programmers is fundamentally flawed..."
+Artificial Intelligence resources
+A Revolution in Recruitment
+"How to create your own ActiveAdmin routes, without losing the original"
+JS Myths
+Cheesy ops via now.sh
+Why I’m starting to write on Medium
+On the last day of bootcamp
+What is Recursion?
+Why I won’t be using Fetch API in my apps
+Guide to reduce Android’s apk size
+Beginner’s OCaml setup on Mac
+#ReactForNewbies: Building a Todo App with Create-React-App [Part 3]
+When not to use Hibernate
+Why Supermart.ng Switched From Java To PHP
+Why I don’t love Swift Enums any more
+Scratching The Surface Of Programming (Part 1 )
+Is Finishing Side Projects Hard for You Too?
+Learn Me a Haskell
+"Faster, More Reliable CI Builds with Yarn"
+"I feel like Sherlock, if he were a developer"
+Your Functional Programs Are Imperative Pumpkins
+How to add code snippets to Medium?
+NaN is not equal to NaN!
+Fastest Crash Course on Algorithms and Data Structures
+A Rubyist looks at Crystal (Part 1)
+Nomad Game Engine: Part 4.2 — Adding Handles
+"Hi Shahar,"
+Code Briefing: It’s time to get in over your head
+Softwarant
+#1 ~ Intro with RxJava in Android
+How a One Liner Doubled My JavaScript Performance
+Clojure: Getting Started From Newbie to Newbie
+Configurable SVG components with Angular and D3
+Efficiently Quitting
+Code Documentation
+Let’s Go
+Minoca OS: A new open source operating system
+Normalized vs. Denormalized Databases
+Duck typing in C #
+Avoiding being bitten by Python
+Stranded with a C++ compiler and a bunch of queues
+10ish Things I Learned at DroidConUK 2016
+I survived a coding bootcamp and so can you
+Recursive Page Tables
+10 Scratch Projects with Style
+"When famous mathematician Gauss was still at school, he had this lazy teacher who made his students..."
+Writing an 8086 Debugger in C# (Part 2)
+How to stay on the cutting edge of programming in 2016
+The Eve programming language
+Weekly Update Vol.2
+Android Test Driven Development
+Appendix D
+Beginning with JSX
+AVR Development on macOS
+On getting the first developer job
+Go’s alias proposal and all my concerns of Google controlling Go
+"New MacBook Pro is Not a Laptop for Developers — Part 2, The Solutions"
+"C Programming Language: Functions — malloc(), calloc(), realloc(), and free()"
+How to reverse a number mathematically.
+A Beginners Guide to Web APIs and How They Will Help You
+Create a quiz with Vue.js
+Methods in Go (part I)
+Why Sum Types Matter in Haskell
+JavaScript : why ‘var self = this’
+React.JS Top 10 Articles in October
+Console applications in .Net Core 1.0
+JavaScript Top 10 Articles in October
+Building A Tetris Bot Part 1: The Stupid Bot
+Inline code!
+Finding bugs in the code of LLVM project with the help of PVS-Studio
+The Extinction of the Dodos (OTP style)
+Getting to Grips with ES6: Variables
+What is Between the Wires
+Polymorphism in Scala
+What does it take to be a good programmer?
+Notifies vs. Subscribes with Chef
+Garbage Collector Analysis
+Few Things to Know Before Enrolling in Coding School
+Trello 101: become a power user
+Structuring PHP Exceptions
+University of Toronto function design recipe
+Come learn with us
+Some Rules (from POODR)
+Learning JavaScript as an African in Africa is not a joke.
+10 principles for smooth web animations
+How to Add Custom Action Buttons to Django Admin
+Take Advantage of the exportAs Property in Angular
+Beyond JSON — Introduction to FlatBuffers
+Want to Code Faster? Timebox Impediments
+Methods in Go (part II)
+For first time developers: Signs you probably shouldn’t work for that company
+Low Code: wave of the future or blast from the past?
+The Real Reason for the Decline of StackOverflow
+Implementing Window Messaging in Win3mu
+How studying law helped me with programming
+Awesome cmd line with antigen ( zsh plugin manager)
+devRant
+Don’t waste cycles with modulo bias!
+Learn to Code — Become a Snake Charmer
+We continue checking Microsoft projects: analysis of PowerShell
+F# Functions Explained — Currying & Partial Application
+Landmines in Software Development
+Database Systems— RDBMS and noSQL
+End the Style War
+"The Future Of Tech Recruiting Includes: Building A Pipeline, Bootcamp Graduates, and Immigration Reform"
+Systematic Approach in Recursive Programming
+Get amped. The SPRK+ Power Pack is here.
+First steps in optimizing and polishing Unity3d-game
+The Brawn of Design Patterns (Pt. 1): What is a Design Pattern?
+How to learn programming
+How i end up from accounting major student to a full time mobile app developer.
+The vim-elixir indentation code
+Learning to code
+New to Coding? Which Programming Language Is Right for You?
+Getting to Grips with ES6: Arrow Functions
+Range over channels in Go
+Quincy Larson
+The best Functional Programming Blogs and how to get started
+Web Development Top 10 Articles from October
+Node.JS Top 10 Articles From October
+"Fuck you, Debian."
+How To Discover The Best Solution For A Bug
+Why I became a software engineer
+What’s the deal with Base64?
+Ian Malcolm on Software Development
+Abstract Data Types & Data Structures
+I believe (no idea whether this is real or not) that Java is over searched because those who want...
+A DSL for testing Income Tax Calculations
+X-posting from HackerNews:
+Fun Things in Elixir
+Creating middleware for Redux
+Knowing Knowledge Workers
+Software Creation — Stay Positive
+"How Daemons, the Init Process, and Process Forking Work"
+What is an invisible column in Oracle and why would you use it?
+Everything you wanted to know about the Actor Model but might have been afraid to ask
+Public vs. Private vs. Protected
+Modelling domains declaratively with Eve
+Parsing SEC filings with Elixir’s Floki library
+"The problem with learning languages like Javascript, PHP, Ruby or Python first, is you can get away..."
+My Development Setup
+Plato Oriented Programming
+JAVA : How to name interface and implementor
+Coding Sundays: Why I Do Sunday Projects
+So I concluded my NYSC program today
+Growth Stages of the Web Developer
+"So You Want to Be a Coder, Part 2 : You Don’t Know What You Don’t Know"
+BASH + VIM = Cryptolocker
+Metaprogramming and the Proxy Object in Javascript
+Handy ES6 Array Methods
+Recursion: Diving Into The Deep End
+Text Editor Workflow
+Setting up your machine for Go
+"Making Ruby Hash#dig even more awesome, introducing Hash#dig_and_collect"
+I tell my kids that motivation is like a muscle.
+Angular 2 Security — The DomSanitizer Service
+Where To Start As A Front-End Web Developer?
+Emojis in Javascript
+Transactions and threads in SQLite on Android
+Codility tests solution in Java
+Scoping and Hoisting in JavaScript
+Project Euler #1: Multiples of 3 and 5
+Angular 2.0 Top 10 from October
+"Matplotlib python module, using from C#"
+What are some concepts/algorithms/data structures that every computer science student should know?
+What are some concepts/algorithms/data structures that every computer science student should know?
+On Tooling
+Mastering JavaScript
+Package Suggestions to Start Laravel Project
+We broke the internet!
+Blocking goroutine forever
+What do I need to know about the planning fallacy?
+What do I need to know about sunk cost fallacy?
+Why should I be interested in rationality?
+Help make Smalltalk soar again
+Scraping ‘maango.me’
+Programming with Go
+So you think you know C?
+Wind Waker Graphics Analysis
+"How CSS pseudo-classes work, explained with code and lots of diagrams"
+Why Deadlines Need to Drop Dead
+"Don’t Get Attached, It’s Just Luck"
+6 things to develop an efficient web scraper in Python
+A Gentle Introduction to Data Structures: How Queues Work
+"Setting Sublime Text 3 as Default Editor, Ubuntu"
+iOS True Confessions
+Ruby for Packet Analysis
+Why majority of coders prefer to work late at night or in early mornings
+James Hague in “Retiring Python as a Teaching Language” concluded with:
+"Understanding C terminologies, a dummies perspective"
+"My super fast, yet useless string diff algorithm"
+A COMPREHENSIVE GUIDE TO THE CODECHEF
+Introduction to Content Marketing for Developers
+Code Briefing: How the Queue data structure works
+An Array of Lists: Software Engineering Wisdom
+When to Stop Writing Error Programs & Start Effective Coding.
+Docker Project Boilerplates
+"If you want to learn Data Science, take a few of these statistics classes"
+Finally understanding how references work in Android and Java
+The Myth of Long Polling
+The Trie Data Structure (Prefix Tree)
+"A small dive into, and rejection of, Elm"
+Using JS to find isograms
+Debugging Data Corruption with Emscripten
+Using Binary-Only Packages In Go
+#ReactForNewbies: Building a Todo App with Create-React-App [Part 4]
+Report of #vimconf2016 — an international conference for Vim
+"OS X Sierra, PostgreSQL and Psycopg2"
+Chapter 2 — What is a Chingu Cohort ?
+"Java important methods— equals(), hashCode() and compareTo()"
+Getting to Grips with ES6: Template Literals
+3 Days with Sandi Metz
+Code as Data: Structuring business rules in F#
+Writing Specs like Sandi Metz
+"3 Questions with a Tech Lady: Nisha Garigarn, Founder of Croissant"
+Mitigating Drawbacks of Being Remote
+Mistakes You Will Make
+PureLayout vs NSLayoutAnchor — Great confrontation
+Object.create — Object Creation in JavaScript P6 — FunFunFunction #56
+NoSQL Injection in Phoenix Applications
+I loved pair programming way back when. Here’s how I feel about it now.
+Chingu Weekly Vol. 3
+JavaScript static analysis at codebeat
+CLOJURESCRIPT REBOOTED
+Your life as a stochastic search problem
+Counting the Cost of Dependencies
+PVS-Studio is taking over the Internet
+An Array Or Not An Array; That Is The Question!
+Getting to Know TensorFlow
+Become a pdb power-user
+Angular 2 — Custom Exception Handler
+C Programming Language: Passing a Function as a Parameter
+Elixir + Phoenix + Amnesia + Multi-node
+Concurrent Collections in Java
+Design Patterns in Swift: Factory Pattern
+Quicksort Algorithm
+Best Gitter channels: PHP
+The Last Mile: Software Apprenticeship at Nulogy
+Designers Should Play (with code)
+In an imparative language you would probably just use a list right?
+Are Computer Science Students Second Class Citizens
+Code The Flow — How To Write Code In More Productive And Fun Way
+Angular 2 — Improve Performance with trackBy
+Data Structures — Diving Into Data Structures (Part 1)
+Computer Graphics: Scan Line Polygon Fill Algorithm
+Data Structures — A Quick Comparison (Part 2)
+"Error Handling in Swift 3: Try, Try?, and Try!"
+Compodoc — Documentation tool for Angular applications
+How to build a network stack in Ruby
+How to use React’s higher-order components
+Timing Tests in Python for Fun and Profit
+Kendo UI Grid tutorial (using Node.js & MongoDB)
+Java Performance and Moore’s Law
+Why code without comments wastes my time
+Minimum setup on Atom (text editor) for front-end development
+How to avoid Go gotchas
+I was trying out fetch literally this morning and I notice you kind of skipped a simple solution.
+System Settings
+CSS Top 10 Articles For The Past Month
+Learning JavaScript in 2016–8 Magical Steps
+To use or not to use exceptions
+"Getting Started with Tmux, Configurations and Plugins"
+"In theory, a language feature would allow you to create this list of all possible union tags, with..."
+Building Online Communities: Aurelia
+Scalability and Performance. Why We Need to Stay Abreast of Technology.
+A glance of open source in China
+How to build a website when you don’t know how to build a website
+"Regardless of what languages are widely used, I would strongly suggest that your first programming..."
+Top 10 Development and Design Articles Our Followers Loved This Week #25
+Block game survival and software development — the hardcore way!
+The Big Scary O Notation
+So you want to be a professional coder?
+Go and memory layout
+Debugging React Native Performance: Snoopy and the MessageQueue
+Lightning Fast SQL with Real Time Materialized Views: 12 Things Developers Will Love About Oracle Database 12c Release 2 Part 5
+"How To Prevent Falling In The Trap Of The ""Next Big ProjectTM"""
+How to tame the AWS framework to upload a large file to S3
+CPython memory management
+"Circuit breakers and microservices (or, how to really use Hystrix)"
+Best Gitter channels on: Haskell
+"PurpleJS, when JavaScript meets Java"
+A benchmark you really shouldn’t care about
+An Apprenticeship in the Field of Information Technology
+Why Journalists Shouldn’t Be Scared of Code
+Building a distributed web platform
+Functional programming v. OOP
+Why didn’t I become a software engineer earlier?
+How to become a frontend developer
+Synchronized goroutines (part I)
+Machine Learning Top 10 Articles For The Past Month.
+XPath Tips from the Web Scraping Trenches
+What is so “secure” about SecureRandom?
+5 Playlists To Code To 🎧
+Enjoying vim
+Charlotte Zhao — Financial Software Developer
+Dynamic Programming
+Quick Starting My Chatbot
+NodeJs conf IT 2016 @ desenzano del garda
+The Lakeside. The Upside.
+Issues we faced when renewing PVS-Studio user interface
+Choosing a Coding School: Software or Web Developer Program?
+Survival Guide for Junior Developers
+Decorator pattern in Swift
+A shining example of how to teach
+Always Be Coding: Regional Differences in Programming Languages
+Vue.js Todo App — Part I
+Overcoming Functional Programming’s Cognitive Dissonance Issues (for sticklers like me)
+A reasonable Introduction to Program Design — Part 1
+Simplicity: Software Engineering Wisdom
+Scaling through the hurdles of unemployment as a web developer
+3 keyboard shortcuts to speed up your development workflow
+Typing an identity function in flowtype
+"“How do you know I’m mad?” said Alice. “You must be,” said the Cat, “or you wouldn’t have come here.”"
+The First Time I Used Programming At Work
+The most common mistakes made by PHP developers
+What are some programming design patterns that are useful in game development?
+Continuous iOS learning — Part 4 (design inspiration)
+The code I’m still ashamed of
+Learning how references work in JavaScript
+Self-taught Software Developers: Why Open Source is important to us
+"ZeroFormatter — Fastest C# Serializer and Infinitely Fast Deserializer for .NET, .NET Core and Unity"
+Moving machine learning from practice to production
+How Python Makes Working With Data More Difficult in the Long Run
+Using TODO Comments to Keep You Programming in the Zone
+Back door to C++ mastership
+A Guide to x86 Calling Convention
+Dijkstra’s Algorithm and Finding the Most Efficient Path in a Graph
+CMake scripts generation from STM32CubeMX projects: how it was developed
+Code Briefing: The code I’m still ashamed of
+Android API Layer Abstraction
+Python Debugging — Snake Wrangl’n
+Moving machine learning from practice to production
+Functional Programming In JavaScript — With Practical Examples (Part 1)
+Android process death — and the (big) implications for your app
+Basecamp is looking for interns for summer 2017
+Getting Started with Machine Learning
+Using 3rd Party Library Inside Angular2
+Rust from a hackers point of view
+Building a Game with Dart and StageXL — Part 1
+Synchronized goroutines (part II)
+Data Structures — Language Support (Part 3)
+Complete beginners guide to building software products
+Uncle Bob said it himself in this talk around 10 minutes in:
+6 Book Recommendations for New Software Engineers
+Useful but Lesser Known Lodash Methods
+pytest --durations=0 — Show all times for tests and setup and teardown
+"Introducing, SWITCH! Giving people a shot at greatness through an immersive programming class"
+iOS's Survey insights .. Part 1
+An Ode to Ruby DCamp
+Leaky abstractions
+Code cleaning — waste of time or good investment?
+Patchy Thinking: Software is a series of changes
+Monday — Week Two
+When learning seems like a waste of time
+The Development History of PVS-Studio for Linux
+Expert Interview Series: Shahid Shaikh on How to Become a Valuable Software Developer
+A Gentle Introduction to Data Structures: How Linked Lists Work
+Weighted Random Selection
+Getting started with Vapor and Swift On Ubuntu 16.04
+Anatomy of a function call in Go
+"Introducing Project Mentat, a flexible embedded knowledge store"
+MLFE: ML landing in the Erlang world
+Go race condition trivia
+The Hidden XML Simplifier
+Machine Learning From Scratch in 60 lines
+Cache COW — a debugging adventure on Minoca OS
+Stop Crippling Your Database (3/6): Types and Constraints
+10 Free Eduonix Courses to Upgrade Your Developing Skills
+From 0 to Terminal for Ember development
+Code Briefing: How the linked list data structure works
+SPRK Lightning Lab keeps getting better
+Building an Unlimited Register Machine in Elm
+Selar for Sellers: A Product Showcase
+About Learning To Code
+💊 How To Install #RubyonRails 💊 on Windows 7/8/10 → Complete Tutorial 2019 (August 2019)
+How to build your own real-time chat app
+10 Tips to become a better Swift Developer
+Reverse a String in JavaScript
+No API? No Problem! Rapid Development via Mock APIs
+Full-stack development is alive and well. And for good reasons.
+Reactive Programming: An Introduction for Game Developers
+Barriers to getting a job after a coding bootcamp
+Functional Programming In JavaScript — With Practical Examples (Part 2)
+Rust and the Future of Systems Programming
+Six ways to find max value of a list in Python
+Unity Tutorial: How to Set Up StyleCop
+Asynchronous processing with in-memory databases or how to handle one million transactions per second on a single CPU core
+From Coding Novice to Professional Developer: an Interview with Malina Tran
+"alias, alias_attribute and alias_method"
+Why I Switched Careers at 30
+Howto dump Geonames into PostgreSQL and postGIS
+How to write an object oriented program that doesn’t suck
+Determining if an algorithm is Quadratic or Exponential
+Sockets in action
+I have Intellij running on my Chromebook too.
+A quick tour of JavaScript primitives
+Future Java... today!
+Reflections on Swift Mirroring
+OkPluto: The Dog Lover’s Mobile App
+Production isn’t the only environment
+Hoisting — How JS interprets Variable Declaration
+Multi-Language ChatOps With Cog
+Cassandra Mythology
+"How to execute my great idea, without knowing how to code?"
+Full steam ahead
+You (Probably) Don’t Need For-Loops
+I just got a Front End Dev job. And I have freeCodeCamp to thank for it...
+Vue.js Simple Tuts: Toggling
+Hydrogen: Interactive computing in Atom
+Detect locks passed by value in Go
+How to get into Natural Language Processing?
+Delete and Heal for Vector Networks
+Unlocking the Power of Parallelism with Rust
+Coding101: An intro to Ruby Methods
+MountainDew x TitanFall Technical Review
+How To Reject The Belief On The Silver Bullet
+"Test well, sleep well"
+"If we want to teach our kids technology, it has to be like this"
+Getting into an Eloquent State of Mind
+Setting Up TFS As An ALM Solution For Xcode Projects
+A simple guide to using Traits in Laravel 5
+Rails: Active Record Validations
+We All Don’t Know...
+Process of Development
+Async Through the Looking Glass
+Vue.js Simple Tuts: Dynamic Components
+<table> prejudice and HTML xenophobia
+Visualizing Regular Expressions: regexper.com
+Best Courses to Become a Complete Web Developer
+Virtual events in C#: something went wrong
+I know nothing I say will make you feel better about your part in creating that quiz and website.
+Our Ambitious Quest to Democratize Distributed Systems — Act 1: Protocols
+Some Programming Challenges when you are bored
+#GoLang Support for OAuth
+Building Better Board Games with Clojure and Gorilla REPL
+How to tackle programming challenges
+What it’s like to be a programmer at Naughty Dog
+How we beat the state of the art in a week
+Windows Forms Applications: Creating a simple app
+I spent 3 months applying to jobs after a coding bootcamp. Here’s what I learned.
+Why Go?
+10 Tips to become a better Swift Ninja🏴
+Learn you a Lisp in 0 minutes
+Stop Wasting Time: Pair Programming Rocks
+Are Front-End Developers Real Developers?
+Currying and Abstraction over Arity
+How to calculate a nation state’s election result in your bedroom
+Creating a Vuejs Plugin
+Types are shapes — a graphical programming exploration
+Weird 19th-century squiggles (why don’t programmers learn math?)
+Linked List (JavaScript)
+How to Win at Technical Interviews
+How to Do an Internship the Right Way (Part 1: Impostor Syndrome)
+Quick update to the simple Windows Forms app
+The beginning. My first Windows Forms Application (C#)
+"Testable Code, in any language."
+Understanding The Basics
+Java 8 Streams : 10 missing features
+RxSwift and the awesome things you can do with Reactive Programming — Part I
+"Smalltalk vs Scheme, JavaScript, and Java"
+Your presenters don’t need all those lifecycle events
+How to attract new contributors to your open source project
+The Problem with APIs
+A Rubyist looks at Crystal (Part 2)
+Setting up a Python and Postgres development environment using Vagrant
+Code Briefing: Full-stack development is alive and well
+On Recruiting Brilliant Software Engineers
+Setting Up Environment Variables in Elixir
+An interesting article and good for quick and brief overview on iteration.
+Managing Engineers in less than 200 characters
+"COMPOSITION IN JAVA...(The what, when and why).... REVEALED"
+Making a Champion Select Assistant for League of Legends
+Understanding ViewContainerRef in Angular 2
+How Eve unifies your entire programming stack
+Detecting autofilled fields in Javascript
+CSS Selectors Explained By Going Car Shopping
+Yet Another iOS Post About Creating Views Programmatically!
+Technical interviewing for people who suck at algorithms
+"Creating a Marvel iOS App from scratch.. Tools, pods, tricks of the trade and more .. Part 1"
+"I Stopped Being a Lawyer, Became a Developer and It’s Awesome"
+Reference Iterators in Rust
+Journey to the centre of memcached
+Get these free developer resources for students
+On Time
+How to Reverse a Linked List in Swift
+Authorization — at Walmart Scale!
+What’s the best way to learn algorithms for programmers?
+Clojure — the most productive environment I’ve ever used
+Growing the Rust Community
+ModRun: Java Classloading Made Easy
+Let’s code an editor
+Chingu Weekly Vol. 5
+My year in JavaScript review
+What’s in a room?
+What is Load factor and Rehashing in Hashmap?
+Improve your Dev and Ops skills with Troubleshooting Theory
+J&T Tech Talk: Go 101
+I’m finally committed to blog (a junior developer journey)
+Programming for non programmers — Takeaways
+"Data structures in Python, Series 1: Linked Lists"
+"Docker: Easy as build, run, done!"
+"So that whole coding bootcamp thing is a scam, right?"
+How to use Jsoup to scrape webpages (Tutorial)
+Quality Assurance is broken. Here’s how we can make it as agile as everything else.
+"Guilds, Ethics, and Software Engineering as one of The Professions"
+We Care About Your Voice (Engineering Special)
+The post I link when someone tells me that Java sucks
+Designing the DDD way — Introduction
+Visualizing JavaScript Code as 3D Cities
+Understanding nodejs event loop without a Computer Science degree
+Tips to Stress Free Programming
+CSEdWeek and Beyond: Coding with Your Kids at Home
+I almost agree with everything you say.
+Setting up Atom for Go development
+My first year as a developer...
+Method Overloading v/s Method Overriding
+"Deconstructing Event Sourcing, part 2: Command and Controller"
+Joy of Coding [Poem]
+PVS-Studio for Linux Went on a Tour Around Disney
+My first Windows Forms Application
+Programming life as a subway nightmare
+Sending emails using Python 3 and gmail
+"An Approach to Designing a Distributed, Fault-Tolerant, Horizontally Scalable Event Scheduler"
+Write Your Own React.js!
+The dictionary I use in my code
+Look Maa! Server Side Swift Using Vapor
+Coding101: Ruby Classes Explained
+Implementing Pong with Arduino Nano and I2C OLED 128x64
+The Case Against “The Case Against Python 3”
+Destroying Buildings: A Simple Guide to JavaScript Closures
+Hacking your Nintendo with JavaScript
+The Double Splat Operator
+Feline Good: a CRUD fitness app
+Ruby: An example of each_with_index
+A year of Gymnasium on Open edX
+The Greatest Onboarding Ever Liveth
+Lessons from the Sunset of Sunlight Labs
+Practice Competitive Programming?
+A Kata a day => 2
+Learn to program: JavaScript and Python
+Running Python Script From C# and Working With the Results
+A Week with the new Macbook Pro with Touch Bar
+Docker Compose your ClientSide and API Apps
+Andela Homestudy Assessment
+Gayle Laakmann McDowell I understand you wrote “Cracking the Coding Interview” which no question is...
+Python Top 10 Articles (v.November)
+Dart’s built_collection for Immutable Collections
+How to debug iOS Push Notifications
+My first months as a web developer
+"Lesser Known Tools We Love at Kiwi.com, Part 1 of 3: CLI"
+React – One year later
+Python[3] is great for projects with large code base
+How To Learn With Open Source API Fundamentals
+Scalability in Amazon Web Services
+Welcome to Russian AI Cup 2016
+That Challenging Learning Experience:
+9 Myths Holding You Back From A Coding Career
+7 Must have Chrome Extensions for Developers
+The Learning Challenge
+The really big list of really interesting Open Source projects.
+"Rust’s iterators are inefficient, and here’s what we can do about it."
+The hardest part of learning to code is also the funnest part
+Five Small Things You Probably Don’t Know About Kotlin
+Diving deeper into the Java transient modifier
+noescape + Swift
+Understanding Functional Programming In JavaScript
+Who is a Full Stack Developer & Should You Become One
+Go Middlewares in a Nutshell
+My first bash bug debugging
+Factorialize a Number in JavaScript
+You need to get with the times man.
+Configuration in Golang packages
+Tower of Hanoi
+Wrestling with a New Paradigm and Relishing the “Obstacle As the Way”
+Find people to learn with (Colearn)
+A motivational talk
+My Journey as a Programmer
+Front-End vs Back-End vs Full Stack for Beginners
+Effective Java for Android (cheatsheet).
+Lessons From My Post-bootcamp Job Search in London
+"Data structures in Python, Series 2: Stacks/Queues"
+Java 8 — Assigning variable inside lambda forEach()
+Introduction to Delegate in Swift
+"How to build a login form, using C# and SQL"
+Yet another sbt-docker introduction
+A Python Implementation of LFU(Least Frequently Used) Cache with O(1)[Time Complexity]
+Why you should document your self-documenting code
+Software is not a turf war
+Getting started with mini projects in Python: Tweet Bot
+Apple and Sal
+Notes about Java 8 Date and Time classes
+The Real Startup Profile
+Notes about Java 8 Lambda Expressions
+"My first bash bug debugging, part 2"
+The Dreaded Stack Trace
+"Whether you’re looking for another way to pay the bills, seeking more professional development..."
+"Django, fast: part 2"
+Angular 2 — Deal with Different Form Controls Cheat Sheet — Template vs Model
+Using InterProScan like a pro
+ES6 Generators
+Early Adopters — Early Majority
+"Relax man, you are free to use whatever technology, language or framework you want and nobody will..."
+How to start learning iOS
+Next Steps : Chingu Events and Tips
+Please don’t let 2017 be another “Year of Code”
+Implementing Java Cryptography Architecture
+Eating & dreaming code
+Why Excel Excels
+"Visualize Data Structures, Algorithms and Regular Expressions"
+In-memory caches: When to use them
+Swift optionals explained simply
+Understanding Recursion in JavaScript
+Ineffective ‘Effective C++’ (and other C++ reading tips)
+Programming Languages Explained for Beginners
+Using Unique Database Fields with Soft Deletes
+Color Reproductions of Hyperspectral Images
+"Creating a Marvel iOS App from scratch.. Part 2 Tests, coverage and more .."
+Why learning to program alone is a terrible idea
+Dinghy: Painless Rust tests and benches on iOS and Android
+Throwing off our scope chains
+Introducing Prism
+Couldn’t agree more.
+I’ve seen this happening in the JavaScript community too.
+INHERITANCE IN JAVA PROGRAMMING
+Baby Steps to Elixir: Pipe Operator |>
+Chingu Weekly Vol. 6
+Determining All Possible Permutations of a String
+Why Citizen Space Programs Will Win~
+Extreme test-first!
+Code is Prose
+"I was frustrated, and then Unit tests came to my rescue!"
+"What I learned from my first line of code, 15 years ago"
+Practice Linked List Algorithms in Ruby
+"C++ Development using Visual Studio Code, CMake and LLDB"
+Our Multi-tenancy Journey with Postgres Schemas and Apartment
+What’s new in Git 2.11?
+Random Art and the Cryptographic Christmas Tree
+Udemy’den yaklaşık 5000$ değerinde ücretsiz eğitimler
+3 Ways To Test Developers Before Hiring Them
+JavaScript Top 10 Articles in November
+Algorithm Top 10 Articles (v.November)
+From video to thumbnails with Python and OpenCV
+XorShift128+ Backward
+27 Everyday JavaScript Tricks For Beginner Web Developers
+Load Testing with Locust.io
+How to Get Started with Freelancing
+collection_singular_ids: Treating Associations as Attributes in Rails
+Swift snippet #2 — Generic UITableView dequeue cell
+Hello JavaScript Studio
+How to be a Newb Software Engineer
+Clarity 1.0.0 Roadmap
+Working In An Industry That’s Unrelated To My Degree
+Enhancing your webcam using canvas.captureStream()
+Emmet — speed up your workflow
+Linux permissions deep dive — Part 1
+It is possibly dangerous to rely on magic you don’t understand for something as fundamental as...
+The challenges of learning to code as a full-time working adult.
+BSBS: Building Solid Billing Systems
+Reverse-Engineering Instagram IDs
+JavaScript Keywords: What’s up with “this”?
+My experience at Cloud Hack
+Analysis of bugs in Orchard CMS
+"Intra NSU Programming Contest — Fall, 2016: Quick Roundup"
+Why Subclass?
+"My Path to Co-Founding Independent Video Game Studio, Golden Moose Studios"
+How My Philosophy Degree Is Helping Me Learn To Program
+Improving .NET Application Performance
+Let’s talk security: Salted password hashing in C#
+Dart’s built_value for Immutable Object Models
+5 Secrets of the Switch Statement
+"Crashes, Hangs and Crazy Images by Adding Zero"
+How to Extract Data from JavaScript-Based Websites with Splash
+Web Development Top 10 Articles in November
+Managing time and stress
+Our Ambitious Quest to Democratise Real-time Distributed Systems — Act 2: ION vs JSON
+Check for Palindromes in JavaScript
+Third Time’s The Charm: Circular Learning
+What the hell is static keyword in Java?
+How to use PVS-Studio for free
+The Andela Home study Curriculum
+You don’t need code to be a programmer
+Introducing Vidyuth Dandu
+"I have it on good authority that Windows 7 shipped with more than 100,000 *known* defects."
+Colloquial Stability Patterns
+"array 101 = [forEach, map, reduce, filter]"
+What is a Variable in JavaScript
+The Habit of Practice
+Learning a new language... Java
+Using Java Flight Recorder
+"Ten awesome, rigorous, and curated Python interview questions"
+"First stop: AMD — bluescreen via WebGL, and more"
+How to Handle Github Pull Requests Like A Boss
+Smalltalk and protein programming
+The No Pricing Manifesto
+Mutmut: a Python mutation testing system
+Golang tips you might not know
+ABAP 7.40 Inline Loop.
+"It’s Python, Not Python 2, Not Python 3!"
+Data-driven marketing at Smarkets
+"“Performance is a feature” — Interview with Marco Cecconi, Stack Overflow"
+Explore the new features in Angular 2
+Cache Me If You Can
+A Python Approach to Developing Tools in Graph Theory as an Application Basis for Quantum Mechanics
+Don’t feel bad if you don’t treat every error
+"How to Choose a Stack, Part 1: Python"
+Letter Casing in Names of Imported NodeJS Modules
+A love letter to my programming school
+How to learn coding for free: A guide for designers
+Mocking complicated __init__ in Python
+How to Avoid Protocol Orientation Obsessed Programming
+Tiny JS frameworks: Preact and Svelte
+Using Go’s ‘context’ library for logging
+React.JS Top 10 Articles in November
+The Best New Feature in unittest You Didn’t Know You Need
+My 411 days’ Journey to FCC Front End Certification — 10 days after I turned 74.
+Rust’s Iron Framework: Composing Handlers
+What happen when we call a method on a nil object? (Objective C)
+Share your App with the World!
+Designing ReactJS App for beginners
+Andela Developer Wins Africa’s First VR Hackathon
+Fish and Tomatoes
+On Refactoring by Fowler
+Love Your Database (LYDB)
+A JOURNEY I STARTED A WHILE AGO...
+Enhance Your IT skills With SSRS Online Training
+Learning How To Code Neural Networks
+TensorFlow Tutorial — Part 3
+Hack the Planet
+Fighting Haze With Crowdsourcing
+Piano Player
+Simple Reinforcement Learning with Tensorflow Part 0: Q-Learning with Tables and Neural Networks
+L1 Norm Regularization and Sparsity Explained for Dummies
+A Concise History of Neural Networks
+How to teach logic to your #NeuralNetworks ?
+How to train your #NeuralNetwork for Wine tasting?
+Layman’s Intro to #AI and Neural Networks
+Sampling Strategies for Recurrent Neural Networks
+Mathematical foundation for Activation Functions in Artificial Neural Networks
+Backpropagation — How Neural Networks Learn Complex Behaviors
+Is Optimizing your Neural Network a Dark Art ?
+Part-2: Error Analysis — The Wild West. Algorithms to Improve #NeuralNetwork Accuracy.
+"On August 23, 2016, it suddenly became necessary for me to consider recent experiences and..."
+Going beyond the limits of system design
+Simple Reinforcement Learning with Tensorflow Part 6: Partial Observability and Deep Recurrent Q-Networks
+This Week in Data #5
+We’ve conquered data. What’s next?
+If Hollywood Made Movies About Machine Learning Algorithms
+"Now a machine can beat a human at Go, what next?"
+Naive Bayes vs Logistic Regression
+Machine learning Tricks.
+How I Used Machine Learning To Predict Soccer Games For 24 Months Straight
+Machine Learning vs Learning Machines: The Power of Epistemology
+"Dostoevsky, Dr Dre and Data"
+Are We Mining Data Instead Of Answering Questions?
+How to Hadoop at home with Raspberry Pi — Part 1
+How to Hadoop at home with Raspberry Pi — Part 2
+Good times in pet care industry
+How to Hadoop at home with Raspberry Pi — Part 3
+Packet Sniffing in the Subway
+Deep Learning at x.ai
+Working with JSON data in very simple way
+Making Television Searchable with Deep Learning and Big Image Analytics
+Machine Learning in the Real World
+Introduction To Machine Learning
+Why I’m taking a break from teaching Financial Modelling
+Four Steps to HR analytics success. Part 2: Understanding Data Analysis
+The Best Web-Based Data Visualization Tools
+The Crystal Shard: How Salesforce Scales
+Investing In Big Data: Apache HBase
+"Understanding Causality and Big Data: Complexities, Challenges, and Tradeoffs"
+Unlocking A/B Testing — Part one: set up and execution
+What I Learned from Analyzing 1700 Blog Posts (Part II)
+A lot of small mobile apps doesn’t equal one big app.
+US 2016 Elections through a Twitter Lens: How We did it?
+IBM Research Paper on AI Seems to Confirm Self-Learning Architecture
+The Organizational Spectroscope
+Pinterest Trends: Insights into unstructured data
+Common data model mistakes made by startups
+How Big Data can be used to fight the Zika virus
+Landowners Hate Him!!! This Data Scientist Discovered One Weird Trick to Improve Trump’s Wall!
+Is Big data making us all the same?
+Style Advice App Development with Features Based on Machine Learning Technology
+Machine learning in the mining industry
+"HDFS has won, now de facto standard for centralized data storage"
+Three Killer Big Data App Opportunities
+Introduction to Spark DataFrames
+Spark job that writes to Cassandra just hangs when one node goes down?
+Machine learning and the end of science?
+What Exactly is Big Data?
+Analyzing the NPM dependency network
+How to save one million dollars on databases with Tarantool
+Delhivered by Data
+Where Do We Find Ethics?
+Forecasting the flow of the Kenduskeag
+Our Approach — Kaggle : Taxi Trip Time Prediction (II)
+Big data is revolutionizing business: the construction industry in general and building sites in...
+Unlocking A/B Testing — Part 2: evaluation and power analysis
+Which data warehouse should you use?
+Practical Capacity Scheduling with YARN
+What developers actually need to know about Machine Learning
+A glimpse inside the mind of a machine learning algorithm
+Object storage: What is it all about?
+Data Privacy & Data Science: The Next Generation of Data Experimentation.
+"Streaming Processing, Migrating to MapR"
+Review of the Use of Bayesian Networks in Finance
+Analyzing issue data with Github REST API
+The 7 Conferences Data Scientists Shouldn’t Miss
+The Return of the Automaton
+"Research on Data Use in Business — Part One, The Overview"
+Ping! Buzz! Is It a New Car Photo or Customer Alert? Fixing the Broken Enterprise Messaging IoT Signal-to-Noise Ratio
+ReAir: Easy-to-Use Tools for Migrating and Replicating Petabyte-Scale Data Warehouses
+"An Introduction to Machine Learning for Law, Journalism and Public Policy — Live blog from a talk..."
+How Me2B services will redefine marketing
+City Bike rebalanced
+How I carefully crafted a truly terrible data visualization
+Why You Need API Management?
+How to load data from Mixpanel to Redshift
+Learning from Lombardi
+What We Didn’t Solve at DataEngConf
+Big data: three challenges
+"How Big Data Analytics, AI and Machine Learning is Being Leveraged Across FinTech?"
+Which events should you record for analytics?
+Should You Use a Rowstore or a Columnstore?
+Linguistic Analysis of Twitter Posts Can Predict Heart Disease
+Creating Actionable Intel for Agriculture: An Application
+Data
+"Things Facebook Thinks I Care About, Ranked"
+Is Bad Data’s Effecting Your Reality?
+Neurostimulation Caps: “Fitbit For Your Brain”
+"What’s Big In Data, Bots, AI And Mobility"
+Dealing with duplicates in pandas DataFrame
+"Data Science, Trusted Relationships and Scientific Exploration"
+Football or Futbol? Or why Deep Learning will not make other Machine Learning approaches obsolete
+Why big data will always need humans
+Journey to Machine Learning { Lesson 1 => Data Science }
+What answers can data serve you today?
+Good data science isn’t about finding answers to questions
+Estimating Instagram’s Actual Population Statistics
+Welcome to Azimo’s ‘Area 51’
+Why data scientists might want to get some Rusty skills
+Flume for data stream management
+The global fight against climate change needs better city data
+I got banned from Twitter Analytics and they won’t tell me why
+How Analytics is Predicting the Fate of Jon Snow (and the Next to Die on Game of Thrones)
+Can your neighborhood affect your health? Data science says yes
+Expanding Visibility With Apache Kafka
+Facebook Partners With Shadowy ‘Data Brokers’ To Farm Your Information
+Top 3 Questions for Business Improvement Districts
+Helping Computers Understand the Human Body
+"Artificial Intelligence, Machine Learning and other difficult sounding ideas for healthcare, explained."
+Analyzing data networks
+Understanding words to understand language
+WTF is machine learning anyway?!
+Kafka Inside Keystone Pipeline
+Deep Learning for Student Course Recommendation
+Getting on the Blockchain Bandwagon
+"OpenAI Just Launched Their First Product, An AI “Gym”"
+How IoT and Bigdata Together can Influence App Market
+Just Announced: Vice President Joe Biden to Speak at Health Datapalooza 2016
+Why I’ll attend Health Datapalooza
+How CB Insights uses data to illuminate the future
+The Framework for Answering a Marketer’s Questions about Big Data
+Advance Your Business with Advanced Analytics
+You Say You Want Transparency and Interpretability?
+"Not surprisingly, nature’s engineers like big data [CARTOON]"
+Brendan Frey: Deep Learning Meets Genome Biology
+DevOpsLinks is Awesome
+India’s Direct Tax Data — Dreadful with Silver Linings
+Have Humans become obsolete?
+"Research on Data Use in Business — Part Three, Tools for More Effective Data Use"
+Hadoop native libraries: Installation on Mac Osx
+“Data is the New Oil” — A Ludicrous Proposition
+Choosing columns in pandas DataFrame
+Anand Sanwal’s 3 lessons: How CB Insights found their edge as a B2B data powerhouse
+Introduction To BIG Data
+Geospatial IoT: The largest energy company will be a data company
+Changing the World One Byte at the Time
+Stop Relying on Data to Solve All Your Marketing Problems
+"Blockchain based smart contracts, shared electronic health records, and other seemingly unrelated concepts, explained."
+Adding Apache Spark to Astronomer
+To Hadoop or Not to Hadoop..
+"Artificial Intelligence: Driven by Data, Not Code"
+Pavlov: Image and Video Understanding
+Using the Mongo Hadoop Connector as a Translation Layer to Spark
+The other problem is that the “growth hacking” of faking it led to a tipping point past which the...
+Top 5 Advanced Analytics Trends in 2016
+"It’s Not the Size of Your Data that Matters, it’s How You Use it."
+Join the AI Conversation
+Open data: Inequality is also about access to information
+The case for Kafka cold storage
+Apache Spark Cluster on Google Compute Engine Instance
+Analytics in audits (Part 2 of the data analytics series)
+What Does The Data-Driven Utility Look Like?
+Introduction to Apache Beam
+How to measure data-drivenness
+The New Frontier of AI & Deep Learning
+Will data “mining” from space open a Pandora’s box over information sourcing?
+How to use machine learning to find synonyms
+Estonian start-up VitalFields turns IT specialists into farmers
+Data Pitfalls —the Startup Edition
+Command Builder for Hadleyverse
+Why Small Retailers Need Big Data
+The View From The Data
+Data Law’s Radioactive Decay
+Humans of Simulated New York
+"Technology diffusion, through the prism of Formula 1 Grands Prix"
+Future Popularity Contests: A Prediction
+The Modern Data Economy — Part III of III
+"Cloud, Big Data and Data Science Platforms"
+Ryu should say: HADOOP...ER
+The SABC’s 90% local music quota and the effect on advertising revenue.
+part i: mo’ data mo’ problems
+Smart cities as sociotechnical imaginary: introduction
+How API can Transform Wine Industry?
+"Data, Education and Parents"
+"Analyzing Your Zendesk Data, Part 1: Computing Ticket and Agent Statistics"
+Quickly Analyzed Panama Paper Data with Hadleyverse in Exploratory— part 2
+How OEMs Are Dropping The Ball On Data
+The Rise of the Data Natives
+What is Semantic Search?
+“Tax havens popularity trend” — Panama Paper data quickly analyzed with Hadleyverse in Exploratory — part 3
+OKCupid data release fiasco
+Not all data are created equal
+Kafka or RabbitMQ: depends on your messages nature
+Let’s find correlations among European wine regions based on 653 years of data
+Fast Inter-Process Communication over Shared Memory for Java Big Data Applications
+Transparency in Data Science
+Building Data pipelines
+Algorithms to Live By — A Programmer’s Perspective
+Adtech and Engineering
+Reinventing People You May Know at LinkedIn
+Data Visualization — People remember the feeling not the numbers
+Introduction to Data Mining!
+Aloompa Insight: Indexing Artist Demand By Mobile Platform
+Apache Flink GA — Planning for the Future
+Beginner Chronicles : Data Science .
+To what extent can social media impact behaviour change?
+“Redshift” vs “Hadoop” vs “BigQuery”
+Making Cockroaches Fly High
+Tidy untidy United Nations’ migration data with tidyr
+Big data and the elections 2016
+How Designers Can Get More Comfortable with Data
+Scrape dirty data from United Nations web page and clean it up quickly
+Apache Spark vs. Apache Drill
+I Conducted a Worthless and Ill-Conceived Social Media Experiment That Taught Me Nothing
+Leslie Knope & Friends Help Answer Data-Driven Questions for Your Park Programs
+Mining Common Crawl with PHP
+"Showing off the new (free) Google Data Studio, with reddit April’s gilded comments for Sanders/Trump/Clinton in BigQuery"
+Data Footprint of Bike-Sharing in London
+Transforming JSON Data and Visualize in Exploratory
+"This Week in Machine Learning, 27 May 2016"
+Cassandra!
+Why people use social media in 2016
+Big data in agriculture: What no one is looking at but us
+"To Become a More Visionary Leader, Become Stronger at Visualization"
+Data data everywhere
+I tried to implement exactly same thing using Python and SCOOP.
+Quantifying The Negative: The True Value of the Fire Service
+Assembling DocNow Data Flow
+Introducing the new range filter for graphs
+Tips & Tools To Find the Best Data Science News
+A Look at SparkSQL
+A day in the life of a digital analyst
+10 Data Acquisition Strategies for Startups
+The data science ecosystem: industrial edition
+Buying and Selling Cars with Big Data
+Access log data analysis — part1 — Understanding your customer interactions
+Building Thumbtack’s Data Infrastructure
+Stream Processing Everywhere — What to Use?
+Access log data analysis — part 2 — Wrangling with URL data to find customers’ journey on your web site
+Mining Health Data: The New Gold Rush
+How to use data to drive business growth at every level
+The Lambda Architecture and Big Data Quality
+The modern data platform is too big to fit on one slide
+"Big data should be driven by business needs, not technology"
+Describing the data pipeline: A vocabulary for city data analysis.
+Building A Kickass Data Sciences Team — For Startups
+The “Unknown Unknowns” of Machine Learning
+Meet the GES Delegate: Julie Lerner
+Various Ways to Make Civic Data Available Online
+Rolling Window Regression: a Simple Approach for Time Series Next value Predictions
+"Introducing Runway, a distributed systems design tool"
+The Barbell Effect of Machine Learning
+Cassandra Monitoring and Maintenance tools research
+Monitoring A/B experiments in real-time
+In Search of Insight
+"Introducing Runway, a distributed systems design tool"
+What do we mean when we talk about data-driven products?
+The world’s largest data visualization
+An essential guide to classification and regression trees in R Language
+"Explore Trump, Clinton, and Sanders Tweets data and find their engagement effectiveness"
+How Data Science Helps Marketing
+Data Scientists can now build Spark apps visually
+How To Successfully Manage Master Data
+DSSG 2016 Week 1: Convergence and Priorities
+Ensemble Learning and RandomForests in R
+Techniques to Achieve High Write Throughput With Elasticsearch
+What I learned sitting next to a data scientist
+Bayesian models in R (Code + examples)
+Here’s how machines can learn to find the best nonprofits.
+What “Game of Thrones” (and Max Levchin) tells us about data security
+"On HealthKit, Granola, and JSON with Sherbit"
+"PyKafka: Fast, Pythonic Kafka, at Last!"
+"This Week in Machine Learning, 10 June 2016"
+Work Flow Management for Big Data: Guide to Airflow (part 1)
+Does Big Data Reinforce Our Recency Bias?
+Forget about Data Scientists... Start thinking about Citizen Data Science
+Creating the Ultimate Route Discovery Map
+Real-time dashboards considered harmful
+Blockchain — The End of the Middleman
+Venture Games
+Dynamic Downtowns & Data: Uncover Growth
+How to Evolve from RDBMS to NoSQL + SQL
+Distributed Caching Woes: Cache Invalidation
+Machine Learning Trends and the Future of Artificial Intelligence 2016
+The tremendous untapped power of data to reinvent city services
+US Baby Names — Data Visualization and Exploration with Seahorse
+Privacy Act Exemptions (You Really Need to Know This)
+Big Brother vs. Personal Data Fusion: Why the “Personal” is So Important
+A Year with Apache Spark
+Too big or not too big?
+Thanks for writing this.
+AI Snack #3: Clustering
+500X Faster Caching than Redis/Memcache/APC in PHP & HHVM
+How Satellite Imagery Can Empower Smart Government
+Will Data Science Make Your Business Instincts Irrelevant?
+THE ROLE OF DATA IN SUSTAINABLE DESIGN
+Data Visualization TED Talks you must check out!
+Vendor Lock-in and the Big Data Ecosystem — What Does it Really Mean?
+Building Data Pipelines with Luigi
+Play with data and the game never ends
+The “streetlight effect” of big data studies.
+Introduction to Branch Data Frame — Manage Data Dependency & Reproducibility without Stress
+To all recruiters — use machine learning to hire better candidates
+The Challenges of Working with a Graph Database
+Thank you DataCamp.
+I Am Data Drivel
+SAP HANA for Aerospace integrating R
+Building a Data Pipeline from Scratch
+How Big Data can detect network anomalies based on the IP Size distribution
+Contemporary Trends in Data Science
+Is Small Data > Big Data?
+An introduction to Cloudera’s Datalennials
+On data...
+Kafka Log Cleaner Issues
+"Upping your Analytics Game: The Progression from Google Analytics to Server-Side Event Tracking, and Everything In-Between"
+Why Utah is Growing Faster than Everywhere Else
+Empathic Chatbots
+Demystifying Text Analytics Part1 — Preparing Text Data for Text Mining
+A Quick Demo of Apache Beam with Docker
+How to manage large-scale datasets with Hadoop and MapReduce
+LEAP into Data Science!
+Your CMO Needs An Upgrade
+Intermission.
+What we’ve learned about brands in London from 5 million Instagram posts
+Demystifying Text Analytics part 2 — Quantifying Documents by Calculating TF-IDF in R
+"We Have To Learn How To Read, Write, and Speak in Big Data"
+The Future of Data Science: How You and Your Business Can Benefit from Data (Part 2)
+Salesforce Is All About Data
+Behind the digital screens: Reading habits of the industry’s most valuable customers
+"Tom Tunguz on Transparency, Auditing Decisions, and Winning with Data"
+"This Week in Machine Learning, 24 June 2016"
+Demystifying Text Analytics Part 4— Dimensionality Reduction and Clustering
+Consumer Data in the Music Industry is Changing the Game: What Independents Should Know
+R vs Python: head to head data analysis
+Can big data and IoT change healthcare?
+"GitHub Archive fully updated, notice some breaking changes"
+What Just Happened in EU? Brexit by the (Twitter) Numbers.
+Could we have prevented the Orlando Night club shooting? — Minority Report
+Demystifying Text Analytics Part 5— Finding the Most Relevant Terms for Each Cluster
+RDF processing with MapReduce on a massive-scale
+Analyzing Go code with BigQuery
+The Supreme Court’s Big Data Problem
+"Farewell, job title. Hello, skill set"
+Anatomy of an Elasticsearch Cluster: Part I
+"Exploring sparklyr: Linear Regression, K-Means Clustering, and Logistic Regression"
+Data to Dollars
+You’re buying the wrong size t-shirts for your team or event (and it’s costing you money!)
+All the World‘s Immigration Visualized in One Animated Map
+GitHub and the Power of Open Source Data
+What is the Future of Digital Health?
+Is your big data technology missing something important?
+The Need for a Data Revolution
+What is Apache Kafka ?
+People Analytics Market Takes Off: Ten Things You Need to Know
+5 Characteristics of a Great Data Engineer
+Density Histograms and box plots in R (code + examples)
+A Call for Collaborative Data
+"Big Data, Engagement, And The Superfan Snow Job"
+"A Data Science Landscape, One Year After"
+Data Science : Time To Change !
+Setting up Spark 1.6.1 on Ubuntu 16.04
+What is: Predictive analytics?
+What is: Descriptive analytics?
+Setting up Hadoop 2.7.2 Standalone and Pseudo-Distributed Modes on Ubuntu 16.04
+Logging in PySpark
+Popular Java projects on GitHub that could use some help (analyzed using BigQuery and Dataflow)
+Personalisation: it will get worse before it gets better
+The Rise of FinTech in Europe
+The Five Tribes of Machine Learning
+Moving in Milwaukee: The Impact of Accessible Transit on Jobs
+How to use Duke for DeDuplication of Big Data
+"Oh , Shoot ! It’s work anniversary already ."
+Invalidating Caches and Reacting to updates using Streams
+The three skills you need for fact-based marketing
+Sharing data in a reproducible way
+How Data is Influencing a Walkability Project in the City of Greenfield
+"What is Big Data, Small Credit?"
+Anatomy of an Elasticsearch Cluster: Part II
+RedEye
+"“So, what is it that you do?”"
+Data Data Data
+The Birth of Vahanalytics
+"DSSG Update: Open House, Open Minds"
+REVIEW: MONGODB ATLAS
+Provenance: the Missing Feature for Rigorous Data Science. Now in Pachyderm 1.1
+More than just a face
+Why Should Brands Find Time for Hashtag Analytics?
+Installing R Packages from CRAN in Exploratory Desktop
+Turning Data into Action
+Case Study: Efficiently Converting Healthcare Data into Information and Intelligence by @uddenfeldt
+Introduction to Text Sentiment Analysis in Exploratory
+A Brief History of the SMACK Stack
+What is Polyglot Persistence and how can it help your app?
+What is a product analyst?
+Tolstoy’s Warriors
+Rocket Science for Business: Running Operations based on Controls Theory
+Dynamic Downtowns & Data: Making Peer-City Comparisons
+Instagram Engineering’s 3 rules to a scalable cloud application architecture
+Ethics for powerful algorithms (1 of 4)
+Ethics for powerful algorithms (2 of 4)
+Real Time Fraud Detection with BigQuery
+The importance of data in the digital age
+Incremental Computation on Hadoop and MapReduce at Scale
+Utilizing Mind Mapping to Encourage Design Thinking
+Work Flow Management for Big Data: Guide to Airflow (part 2)
+"Retailers, Be Like Chick-fil-A (Or Die)"
+Anomaly Detection with T-SNE
+Don’t Sell Your Data
+What We Learned Writing Expandable SQL ETLs for All of our Schemaless Data
+How Apache SparkTM Feeds Real-Time Sports Analytics
+How To Tell A Compelling Community Story Using Your Data
+Ruby Meets BigQuery: Part 1
+How to Transform Sales from an Art into a Science
+How does Lenddo work?
+iHub Consultancy Services: Data Science
+Why Real Time Data Analytics for Enterprises
+Finding correlations and distances with multi-dimensional scaling
+Brain data needs data brains
+"Pearson, always earning"
+Analyzing GitHub issues and comments with BigQuery
+Adding semantics to graph databases with Grakn. Part 1
+Sentiment Analysis for Winning Customer Centricity Battle
+Communism 2.0
+The Database is a Magician
+Summarizing data quickly like Pivoting
+A New Approach for Your Office KPI Dashboard
+4 Hobbies That Are Helping My Data Science Journey
+CEO to CIO: “What’s our AI strategy?” — Part 1
+Stop Treating Your Data Scientist Like a Janitor
+Setting up Hadoop/Spark/Hive development environment on Ubuntu
+Beware of Artificial Stupidity
+Big Data Insertion into Neo4j : A non-coder’s tale
+Big Data Insertion into Neo4j : A non-coder’s tale
+"Filtering Detail Data, not Aggregated, for Top10 Countries"
+Mesosphere: A New Kind of Operating System
+Millennials Are Spending More Time at an Unexpected Location: Theme Parks
+"For Cloud Native, Data is the New Black"
+"Graph Databases, Linked Data, RDF, and the Semantic Web Wasteland"
+"What is DBpedia, and why is it important?"
+What is Data Science and why it is the Future
+8 Basic commands for PySpark
+"Big Data’s Fatal Flaw, and How to Fix It"
+How to make big data analysis effortless?
+Ancillary Revenues: the Good & the Gaps
+"How to log in Apache Spark, a functional approach"
+An approach to Machine Learning and Data Analytics Lifecycle
+Meet 6 Artists Who Have Swept Data Art into the Digital Age
+"Foursquare Releases Live Attribution Dashboard, Signs 55 New Partners in 4 Months"
+part ii: the power of insightful data
+Scraping US Presidents List from Web and Transforming it to be Useful
+TOP SIX SKILLS TO BE A DATA SCIENTIST
+Beginner’s Guide to Data Science
+The 5Q — Patient Reported Outcomes for Better Cancer Care: A Chat with Dr. Amy Abernethy
+Why don’t more businesses track energy data?
+Adding semantics to graph databases with Grakn. Part2
+Why Are Olympic Track Athletes Getting Older But Gymnasts Getting Younger??
+Time For A New Adventure
+Machine learning is about to change how corporations are run
+How is Pokémon Go Collecting Data on its Users?
+15 Great Free Data Sources for 2016
+Colors to use in a Dashboard
+Best Practice to analyze Big data for better outcomes
+Use Data to Help You Sell More Fonts
+Machine Learning algorithms for Healthcare Data analytics (Part 1)
+How to Lead Your Corporation in a Big Data Analytics Transformation
+Setting up Google BigQuery
+Forming a PostgreSQL cluster within Kubernetes
+How a happy moment for neuroscience is a sad moment for science
+Installing Apache Airflow on CentOS 7
+Introducing Stitch: ETL for Developers
+Clustering R packages based on Github Data in Google BigQuery
+Data Careers: Analyst vs Scientist vs Engineer
+"Small Press, Big Data — or, ‘Bookonomics’"
+Launching Curated Data In Apache Parquet Format — For Blazing Fast Big Data Analytics On Hadoop & Spark
+The What — When — Where of Global Water Security
+Analyzing Bigdata
+Data Wrangling with MongoDB Data
+D3.js —Use it as Custom modular Bundle Now!!
+A Four Minute Read Big Data and Data Science Newsletter list to get you informed on anything “Data”.
+Ethics for powerful algorithms (3 of 4)
+Metabase v0.19 is out
+Top 10 Machine Learning Articles for the Past Month (v.July)
+A Spark and Hadoop cheat sheet of an impatient Data Scientist
+Automated Front-End Style Guide Design
+How the Trump Presidential Campaign is Affecting Trump Businesses
+Anatomy of an Elasticsearch Cluster: Part III
+As We May Think: Data.world Lays the Traceroutes For A Data Revolution
+Book review: Small Data: The Tiny Clues That Uncover Huge Trends by Martin Lindstrom
+"Why SQL is not for Analysis, but dplyr is"
+On Disappearing Code
+Data Science : Time To Change !
+Detail Differences between Data Lakes and Data Warehouses
+The power struggle behind big data: forfeiting emotional autonomy to the machine
+Scheduled Postgres to Redshift copy with a simple Heroku App
+Visualization for Data Driven Storytelling
+Visualizing the DNC vs RNC conventions with Wikipedia+Wikidata+BigQuery
+Procedure of practical data analysis
+Methods in each process of data analysis procedure
+Exploratory Data Analysis for Amazon Redshift with R & dplyr
+Renaming DataFrame Columns after Pivot in PySpark
+Using BigQuery Github data to rank npm repositories
+"Big Data Strikes Back: The Rise of Image, Sensor, and Genome Data Powering Deep Vertical Startups"
+Walking through the cold aisles
+How to use variables to make parameterized SQL Query
+Advancing the science of corn forecasting
+Patient data: what is it and why is it important for research?
+Mapping Tempe’s parking data
+IBM’s Watson serves up a summer of tennis and turbulence
+Opting Out: The Illusion
+Tracker: Ingesting MySQL data at scale — Part 1
+"How do you organize +160,000 startups into meaningful clusters?"
+Two startups break through the computing fog
+"Introducing Tank, a very high-performance log"
+Considering NoSQL databases
+"Happy 1st Birthday, Graphiq!"
+IBM Cognos leading the way for big data analytics
+Making AI work for your business
+What is a data catalog?
+Grandata is presenting four research papers at ASONAM 2016
+Building an Event Detector with Mobile Data
+"Michal Collemiche, VP of Analytics at AT&T Mexico, was awarded by the Mexican Government for his..."
+"Data format for MATLAB, R and Python codes of data analysis, and sample data set"
+"Settings for running my MATLAB, R and Python codes"
+"Building an Immersive Bioinformatics Experience for Biologists, Clinicians and other Non-Bioinformaticians"
+NoSQL Databases: a Survey and Decision Guidance
+Why You Shouldn’t Build Your Own Data Pipeline
+Redshift Database Benchmarks: COPY Performance with Compressed Files
+"Redshift Database Benchmarks: COPY Performance of CSV, JSON, and Avro"
+IoT Time Series Data with InfluxDB
+Chainpoint: a standard blockchain proof protocol
+Data Science and Statistics
+You’re missing one of the most important (open source) developments in NoSQL analytics: Quasar...
+A Tale of Two Industrial IoT Standards: DDS and OPC-UA
+I Used to Dread Monday Mornings as a Planner...
+Introducing Time Series Analysis with dplyr
+Simple queries in Spark Catalyst optimisation (1)
+How To Forecast Inventory and Avoid New Product Line Bloat
+Mo’ Data Mo’ Problems!
+"Arkar Min Aung, leading software developer in Myanmar"
+Introducing Pivot Table
+part iii: let’s democratize the data
+Predicted to succeed
+Building Your Analytics Infrastructure with Stitch + Chartio
+What One City is Doing To Tackle Asthma
+“Organic” vs. black box software
+WHAT IS COLD STORAGE?
+Analyzing User Conversion Funnel Data from Google Analytics with dplyr
+Big Data is not the same as Lots of Data.
+Innovation Station at Premier Parking
+Flexible Image Tagging with Fast0Tag
+Physicists explain things to me
+Becoming a Data Science Unicorn
+Adam Kelleher on experiment design and observational analysis
+Kappa Architecture : In Practice
+Geocoding US Address Data with zipcode Package & Visualize it
+This is what it’s like to investigate a police department accused of misconduct
+The importance of coding the curb
+"data.bythebay.io: Jay Kreps, Building a Real-time Streaming Platform Using Kafka Streams"
+"reactive.community: Jay Kreps, Stream Processing with Apache Kafka"
+What Silicon Valley is Doing to Make Big Data More Secure in 2016
+Big Data’s Big Impact Coming to Oil and Gas
+5 Reasons to Use Virtual Reality for Data Visualisation
+Machine Learning and Artificial Intelligence : stop doing POCs. Start using data !
+DATA INGESTION PLATFORM(DIP) — REAL TIME DATA ANALYSIS — FLINK STREAMING
+An ode to the analytics grease monkeys (analytics deployment = ROI)
+Do Algorithms Find Depression or Cause Depression?
+Can’t get connection to zookeeper: KeeperErrorCode = ConnectionLoss for HBase
+Big Data is a junkyard.
+Celebrating 100 Years of NPS: The People Behind the Parks
+Machine Learning Becomes Mainstream: How to Increase Your Competitive Advantage
+Grandata Scientific Publications. August 2017 Update
+Only By the Bay: Please Don’t Offer Me a Job
+Adding semantics to graph databases with Grakn. Part 3
+"How to install #R for your #MachineLearning on #MacOS #Linux, #Windows by @gp_pulipaka. #BigData #DataScience #AI"
+The jobs to be done theory and big data
+"Building a recommendation engine with AWS Data Pipeline, Elastic MapReduce and Spark"
+Cloud Dataflow can autoscale R programs for massively parallel data processing
+Mobile (parking) payment: what data says about adoption
+Hacking Healthcare
+No shades of gray. How social media drives us to the extremes.
+How to Become a Data Scientist
+5 Most Practically Useful Window (Table) Calculations in R
+The CPU and The Memory
+"We Know You, Better Than You Know You; Metadata, Analytics & Hacking The Consumer Brain"
+Surveillance By Default
+"400,000 GitHub repositories, 1 billion files, 14 terabytes of code: Spaces or Tabs?"
+Unloading a file from Redshift to S3 (with headers)
+Sensitive Data Exposure Vulnerability: Causes and Prevention
+"Goodbye Spark Streaming, Hello AWS Kinesis Analytics"
+Nominal bits make invaluable [tera]bytes
+Building Data Pipe on Top of EMR
+Big Data Will Disrupt Law Firms Too
+“Predictive policing” is happening now — and police could learn a lesson from Minority Report.
+Taming the Beast
+Data Literacy & Social Media Ecologies
+How to Find and Recruit a Data Analyst
+Machines Learning In The Wild
+What Are Data Lakes? A Deep Dive
+“Moneyball” Politics — Are We Doing this Right?
+How can Blockchain Improve Cloud Computing
+Handling large data sets at scale
+Microsoft Excel: Data Analysis; Getting Started with Pivot Tables
+Using Z-values to efficiently compute k-nearest neighbors for Apache Flink
+5 data science algorithms that can help you better understand your customers
+BigQuery tricks: Pull daily Google Finance Data without an import job (use a spreadsheet instead)
+Celebrating the Wealth of Big Ideas from Indonesia
+Spurious correlations: Alphabet stock price and Wikipedia pageviews for Pokemons
+Sex and data: confirming our suspicions and challenging our assumptions
+Why Your Approach To Mobile Data Isn’t Working
+Graph-based machine learning: Part I
+Airflow: A Beautiful Cron Alternative (or replacement) for Data Pipelines and Workflows
+Analyzing Alexa Skills During a Hurricane
+Arable in Zambia: Connecting Farmers and Researchers with Data on Maize and Microclimate
+Merging Multiple csv’s
+The tale of two messaging platforms: Apache Kafka and Amazon Kinesis
+Who is best positioned to invest in Artificial Intelligence?
+Slave to Software Architecture Trends?
+Advancing a National Cancer Knowledge System
+How to Choose the Right Database System: RDBMS vs. NoSql vs. NewSQL
+From Batching to Streaming — Real Time Session Metrics Using Samza (Part 1)
+7 Ways Open Data Can Electrify Your Mission-driven Company
+Paradigm Shift : Single Threaded Single Node AVA (Automatic Vehicle Allocation system) to Distributed AVA
+Practical application of Singleton design pattern in Django
+Basic statistics in pandas DataFrame
+Day 12: Creating your own Docker image and deploying it on AWS Beanstalk — Random Funny GIFs app
+Coding in Economics
+Better process for zsh virtualenvwrapper plugin
+How to convert a JSON file to CSV — PYTHON SCRIPT
+Syntax sugar in Python 3.6
+Comparing nested Python dictionaries with no hassle
+Setting up an Apache Airflow Cluster
+Rapid Router game from Ocado gets a Christmas makeover
+Bulk Update on Rest Framework
+Writing backend for mobile apps in several minutes
+What I Learned In One Year as CDO of San Diego
+Box CEO Aaron Levie:
+Bigger than Google? Niantic (Pokemon Go) could be THE ultimate location data global source — just imagine the freaking power of that location API!
+The shocking truth about ad blockers that you need to hear.
+At your service — Data and personalisation in the hotel industry.
+Data tables: From Sumer to VisiCalc
+JSON Parsing done right in Swift.
+Dimensionality Reduction — Does PCA really improve classification outcome?
+The use of KNN for missing values
+Julia and Its Usefulness in Data Science
+Opening the Neural Network Black Box — Perceptron
+Data-Informed UX design
+A better path to a career in data science
+Can Big-Data Deliver Big-Returns For Agriculture?
+Learn Self-driving Cars Like You Learned React
+"How to make an idea machine, part one"
+"Dinner on Math, Representations, and Neural Nets"
+Detecting facial features using Deep Learning
+Detecting bats by recognising their sound with Tensorflow
+Using scikit-learn to find bullies
+Political Partisanship: A look at the data
+How to Price an AI Project
+Thoughts after taking the Deeplearning.ai courses
+The 7 Steps of Machine Learning
+Background removal with deep learning
+Applied Deep Learning
+The truth behind Facebook AI inventing a new language
+An Intuitive Guide to Deep Network Architectures
+How to Price an AI Project
+Artificial Intelligence and the Rise of Economic Inequality
+Detecting facial features using Deep Learning
+DNA Sequence Data Analysis — Starting off in Bioinformatics
+Unsupervised Learning of Gaussian Mixture Models on a SELU auto-encoder (Not another MNIST)
+Introduction to Q-Learning
+The very basics of Reinforcement Learning
+Why Meta-learning is Crucial for Further Advances of Artificial Intelligence?
+Markov Chains— A take on Life
+Artificial Intelligence is learning to walk
+"Scaled ML 2017, Thoughts & Takeaways"
+Using Deep Policy Gradient to play Pong — Part 1
+OpenAI’s Challenge to DeepMind & Reinforcement Learning
+What is Industrial AI?
+Summary: Playing FPS with Deep Reinforcement Learning
+Machine Learning Algorithms: Which One to Choose for Your Problem
+Welcome to Deep Reinforcement Learning Part 1 : DQN
+Beat Atari with Deep Reinforcement Learning! (Part 2: DQN improvements)
+How to setup OpenAI Universe in Windows using Docker
+Summary: Prioritized Experience Replay
+Notes on Deep Reinforcement Model for Abstractive Summarization — Salesforce AI Research (Paper of the day — PoD; Dare I say Summary)
+Summary: Noisy Networks for Exploration
+Importance of data visualization for ML
+7 Challenges of Building Industrial AI Applications
+Reinforcement Learning
+50 Best Resources When Learning to Code
+Auto-scaling Kinesis streams with AWS Lambda
+The 7 steps to a complete Code Review
+Why I’m Learning to Code
+Why is my code working? ... Don’t touch it.
+Why We Don’t Have a Logo
+"Small Batches, Big Impact"
+Are stereotypes continuing to widen the gender gap in coding education?
+Rethinking our Development Workflow with Atom
+Complexity and Simplicity in Computer “Science”
+5 tips for ScalaTest that will make Testing Great Again
+I Read Java How To Program by Deitel And This Is What I Learned
+How to Code Your Own CryptoKitties-Style Game on Ethereum
+Lessons from my first multiplatform Kotlin project
+Why Programmers Need to be Learning about Blockchain
+"Full-stack Tutorial: How to build an application with GraphQL, Angular & Apollo — Introduction"
+"Software engineering may never die, but the demand for professional programmers will certainly..."
+JavaScript { Part 12 : Unicode }
+"ES6: All Hail, Template Literals — Part 2: Tagged Templates"
+Sphero + Edge of Space
+"Coding News Summary — WebAssembly, React, GitHub Security Alerts, Angular, and more"
+Mission Three: The Final WLRC Challenges
+Space: The Final Fun-Tier
+Women Pull Back the Curtain on Tech
+Is “Pinkifying” a good strategy to get girls into coding?
+Flexbox vs CSS Grid: A comparative analysis
+Embrace And Evangelize Zen Coding
+A Deep Dive into the ROI of Coding Bootcamps
+Unit testing in JavaScript Part 4 — Mocking basics
+Eclipse Profiles Changelog
+I love programming but I don’t know how to survive in the world of Codes.
+AdEx Registry/Exchange Contract Audit
+So You Think You Can Code? General Assembly Bootcamp Week 2
+Tutorial 1 : Basics of Android Project files
+The Most Loved By Programmers (Shortcuts!)
+Reinforcement Learning w/ Keras + OpenAI: DQNs
+A Keras multithreaded DataFrame generator for millions of image files
+Building a Bayesian deep learning classifier
+Histogram Equalization
+Stratified k-fold with Keras
+Reinforcement Learning w/ Keras+OpenAI: The Basics
+Custom Image Augmentation
+Galaxy Zoo classification with Keras
+Convolution Neural Network
+SQL Server Profiler Best Practices and Tuning Advisory
+Top 8 Shipping Tools for Small Online Stores
+How to avoid memory overloads using SciKit Learn
+Webpack tree-shaking with Babel
+Optimizing Rc memory usage in Rust
+SQL Server Profiler Best Practices and Tuning Advisory
+Donald J. Trump’s $30M Testing Team
+Optimising Node.js for Speed: Part 2
+ASO: How to keep your app out of the app graveyard
+Top 8 Shipping Tools for Small Online Stores
+Donald J. Trump’s $30M Testing Team
+How your phone sleeps with you!
+Understanding the value of Qualitative Insights: On-site Surveys
+How to balance an F1 car through the corner
+“Boost Up” Your React Native Apps
+Let’s Optimize the Work with Terminal for Xcode Developers.
+Seeing the random forest from the decision trees: An explanation of Random Forest
+Random Forest Classifier
+Apple Core ML
+Intuitive Interpretation of Random Forest
+Decision Trees and Random Forests for Classification and Regression pt.2
+Spotify: Analyzing and Predicting Songs
+Using ML to predict Horse Race duration
+Decision Tree Hugging
+"When you hear the term “Machine Learning” (ML), it sounds like a daunting yet totally cool badass..."
+Making data science accessible
+There Was No Big Bang Singularity
+Could Intelligent Life Evolve Underwater?
+How often does Jordan Peterson not know what he is talking about?
+The bioRxiv Wall of Shame
+Binge Radiotopia’s New Showcase Series: The Great God of Depression
+Fascinating geological places on the Moon
+Is The Inflationary Model Pseudoscience?
+Scientists Are Putting the X Factor Back in X-Rays
+"The Exosome, Fortnite, and American Land Usage: Lux Recommends #142"
+The Myth of the 5-Second Rule
+Lab-Grown Pig Lungs Are Great News for the Future of Organ Transplantation
+Researchers Create Computer the Size of a Speck of Dust
+Stories can wait. Science can’t.
+When movements become contagious
+Reviewing Every NYC Restroom That Neil deGrasse Tyson Has Had Diarrhea In
+Forever Live: A Flash Fiction
+So I have thoughts about this!
+Indeed. It’s not a problem of religion vs science; but a problem of dogma vs open-mindedness.
+Data Science Concepts In Mental Models
+Investigating Focal and Dice Loss for the Kaggle 2018 Data Science Bowl
+Kaggle Tensorflow Speech Recognition Challenge
+Common Patterns for Analyzing Data
+Kaggle’s Digit Recogniser using TensorFlow -LeNet Architecture
+"How I lost a silver medal in Kaggle’s Mercari Price Suggestion Challenge 
+using CNNs and Tensorflow"
+[Review] Kaggle Toxic Comment Classification Challenge
+📊 Host your own Data science competition!
+How we temporarily made it to first place in our first Kaggle competition
+Google Landmark Classification Challenge
+"Image classification from scratch in keras. Beginner friendly, intermediate exciting and expert refreshing."
+Ask Me Anything session with a Kaggle Grandmaster Vladimir I. Iglovikov
+This will help you score 95 percentile in the Kaggle Titanic ML competition
+Building Machine Learning Model From Unstructured Data
+Interview with The Youngest Kaggle Grandmaster: Mikel Bober-Irizar (anokas)
+My First Kaggle Competition
+Three models for Kaggle’s “Flowers Recognition” Dataset
+Solving the Kaggle Telco Customer Churn challenge in minutes using AuDaS
+Understanding and Calculating the Cost Function for Linear Regression
+Data Augmentation using Fastai
+How Far Are We From A Real ‘Westworld’?
+Driving Sentiment Metrics with AI
+Neural Networks (and Machine Learning) for the Non-Technical
+Facebook F8 2018
+New Computers Inspired by Your Brain
+Retail Robotics & AI Conference Takeaways | Coresight Research
+The Story of Sentic: Reinventing Marketing with AI
+"E-commerce is huge, and that is good and bad. How will Eligma increase the visibility and safety of online sellers?"
+"BolttCoin, World’s First Health Digital Currency, Poised To Beat Bitcoin, Ethereum And Fitbit Volumes"
+"Announcing Delicia’s partnership with Amon, and Daniele Izzo’s joining Delicia as advisor."
+Let AI trade for you. Video
+The Future of Mankind
+🧠 Smart News for Humans — Episode 3 🧠
+Remi AI partners with Ikkiworks to help build a companion robot
+Shared mobility and our ideas
+"XOR, the Moldovan Startup that's transforming HR forever"
+AI Thoughts
+Rankism — Opinions Embedded in Code
+Machine Learning for English Majors
+"Consciousness, a beautiful software hardcoded as hardware"
+el producto #100 👉 a weekly round-up of Tech and Product goodness
+"AISaturdaysOgbomoso Cohort 2, WEEK1: Introduction to Python for Data Science(numpy)"
+Second Person
+Understanding Artificial Intelligence
+AlphaZero implementation and tutorial
+2018 round up of 52 Immersive Things
+How to turn off recommendations on the Youtube homepage
+"People Don’t Buy Products, They Buy Better Versions of Themselves"
+Docker 102: Docker-Compose
+Learn How to Code and Deploy Machine Learning Models on Spark Structured Streaming
+The Death of Traditional Marketing
+Mastering Apache NiFi For Free
+"Gift Card Technology Lags Behind, Consumers Lose"
+Q&A With Microsoft Chief Speech Scientist Xuedong Huang
+OpenAI Blogs: A Micro-Event Analysis
+Using virtual reality time travel to combat dementia
+They’re stealing our jobs!
+Skynet Healthcare | Breakthrough Technology for Dementia Patients
+The Value of a Sustainable & Market Competitive Digital Strategy
+Separating building and thinking does not sustain as a growth model for organizations and individuals
+Littafi Origins
+MLH Ethical Tech Initiative Scholarship
+HARA presents at World Bank Organization’s Global Housing Finance Conference
+Baidu will launch its autonomous buses in Japan by early 2019
+How to use Dataset in TensorFlow
+TensorFlow on Mobile: Tutorial
+Fighting Financial Fraud with Targeted Friction
+Named Entity Recognition: Applications and Use Cases
+Intro to Distributed Deep Learning Systems
+Become Data-Driven or Perish: Why your company needs a Data Strategy and not just more Data People
+How to easily train a 3D U-Net or any other model for lung cancer segmentation.
+Instacart Anytime: A Data Science Paradigm
+Build and Train Neural Network with Tensorflow C++
+Notes on Matrix Calculus for Deep Learning
+"Manual Back Prop with TensorFlow: Decoupled Recurrent Neural Network, modified NN from Google Brain, Implementation with Interactive Code."
+The Fruits of Deep Learning: How Convolutional Neural Networks Support Robotic Harvesting and Yield Mapping
+AI is giving the entire medical field super powers
+"React.ai, production ready boilerplate for integrating machine learning API with React.js — Part 1. Speech Recognition with React.js"
+The Deep Learning AI Playbook
+"The BC Government Announced the Legalization of Recreational Cannabis this Week, But All We’ve Got the Munchies for is DATA!"
+Predicting and understanding advertisement liquidity in classifieds
+Hook your next fish — how to write the perfect data science white paper
+Text Summarization
+Data Driven Organizations Demand The Ground Truth
+Building a reverse image search engine for items on EBTH
+Expanding the Nash Equilibrium: A New Strategy for Asymmetric Games
+For a better debate on Artificial Intelligence
+4 tips before you hire that Data Scientist.
+"We found a way to know who is going to die, when they are going to die, and how."
+Demystifying Security Data Science
+IAGON and TIES.DB partnership
+Understanding K-means Clustering in Machine Learning
+3 facts about time series forecasting that surprise experienced machine learning practitioners.
+RL — Policy Gradient Explained
+An Approach to Choosing the Number of Components in a Principal Component Analysis
+Self-Attention Mechanisms in Natural Language Processing
+A Comprehensive Guide to the Grammar of Graphics for Effective Visualization of Multi-dimensional Data
+Multi-Layer perceptron using Tensorflow
+How to select the Right Evaluation Metric for Machine Learning Models: Part 3 Classification Metrics
+PCA & Autoencoders: Algorithms Everyone Can Understand
+A machine learning survival kit for doctors
+"Linear Regression (Part 1): types, examples, Gradient descent example"
+Feature Selection (Boruta /Light GBM/Chi Square)-Categorical Feature Selection
+BigQuery: level up your queries with these advanced tricks
+Generative Models for Data Augmentation
+How hard is it for an AI to detect ships on satellite images?
+Forecasting Fundamentals You Should Know Before Building Predictive Models
+Natural Language Extraction- Using spaCy on a set of novels
+Mapping Challenge winning solution
+Machine Learning
+Introducing TFServe: Simple and easy HTTP server for tensorflow model inference
+How to visualize the Central Limit Theorem in Python
+Hack a designer look by using convolutional neural networks
+Quick and Dirty — Entity Recognition
+Introducing the Spoke Engineering Blog
+Introduction to Game Theory (Part 1)
+The future of sales: 6 skills every B2B sales rep needs
+The Variational Autoencoder as a Two-Player Game — Part II
+What’s New in Deep Learning Research: Understanding Progressive Neural Networks
+How Machine Learning (ML) Is Transforming Manufacturing
+"Image Augmentation: Make it rain, make it snow. How to modify photos to train self-driving cars"
+Empirical Enactivism: How our brains simulate the world in order to experiment on the future
+Natural Language Processing Nanodegree Program: What You’ll Learn
+AI vs ML vs DL
+Discovering Descriptive Music Genres Using K-Means Clustering
+Review of Huobi Talk interview with Steve Deng
+How studying the humanities made me a better scientist
+Business Intelligence: Machine Learning and AI The Future Of BI?
+"Difference between Machine Learning, Deep Learning, and Artificial Intelligence"
+Chatbots for Tech Support 101
+Contextualizing AI: The Cat and The Mistaken Hat
+"Meet Jennifer Haroon — VP, Strategy & Business Operations at Nauto"
+"TextQL, Colorless Green RNNs, ConvAI2, Machine Learning Yearning, Meta-Learning Tutorial, Tinn, World Models,..."
+Become an authentic speaker
+Prisma + Huawei: A partnership for the future of mobile-based AI capabilities
+Do you Trust This Computer?
+Cloud and AI as the Business Crucible
+The Virtue of Explicit Bias: Why Your Chatbot Should Be a D**k
+Episode 2 — Just do IT
+Computes Beta Update
+Meet the VU Team
+Applying Deep Learning To Airbnb Search
+How Google Innovates
+"ResNet, torchvision, bottlenecks, and layers not as they seem."
+Humanizing Technology Through Chatbots
+Federated Learning for Wake Word Detection
+European Blockchain Unicorn Bitfury Completes $80 Million Private Placement
+"“We need an industry-wide safety certification framework for autonomous vehicles”
+FiveAI publishes paper as call to action"
+Simulated Annealing For Clustering Problems: Part 2
+Improving deep learning accuracy at the edge
+Introduction to Neural Networks
+Towards Declarative Visual Reasoning. . . Or Not?
+Six reasons on why Community-driven AI is the future
+How to Get Deterministic word2vec/doc2vec/paragraph Vectors
+Hitchhiker’s Guide to Organizing an Academic Workshop
+Learn to execute(LSTM Learn to Multiply Number)
+AI Ethics: What You Need To Know
+DeepMind Announces Pre-Symptom Eye Disease Prediction at Moorfields
+‘untitled’ by ai
+TPUs (Tensor Processing Units) on Google Cloud
+Flask app with Distributed Tensorflow
+"The Future Is Now: Using AI and 3D Scanning, You Can Visualize Your Kitchen Renovations Before You Start"
+Journey to Deep Learning — Prerequisites and understanding what to choose in Deep Learning — (Part 2)
+Linear Regression Part 1
+GAN — Unrolled GAN (how to reduce mode collapse)
+Introduction to Naive Bayes for Classification
+Extracting colours from an image using k-means clustering
+Real world applications of big data in healthcare
+Reflecting on Opta
+"3 Ways to Apply Latent Semantic Analysis on Large-Corpus Text on macOS Terminal, JupyterLab, and Colab"
+Force caching Spark DataFrames
+Human Bias in Data Capture
+Visualizing the Cryptoassets Demography (Part I)
+Finding interesting keywords: TF/IDF from Corpora using Ruby
+An Introduction to Data Science via ScalaTion Part 1 — Setting Up
+"Quick Python for Data Science, Part 1: Introduction and Basics"
+Political Asymmetry
+"Quick Python for Data Science, Part 2: Inbuilt Data Structures"
+Python vs (and) R for Data Science
+Embedding Machine Learning Models to Web Apps (Part-1)
+K-Means in Real Life: Clustering Workout Sessions
+How to sharpen your data instincts
+How To Develop A Successful Healthcare Analytics Product
+Model Tracking Tools for Data Science (mlflow)
+Introducing CiBO Technologies
+"Quick Python for Data Science, Part 3: Functions"
+Deep learning for sensor-based human activity recognition
+How to build a deep learning server based on Docker
+The Rise of the Model Servers
+Neural Spelling Corrections and the Importance of Accuracy
+Deep Learning Rig — Part One
+Lessons from training an end-to-end steering network
+Synthesizing Deep Learning Training Data
+COMPONENTS OF NEURAL NETWORKS
+"Contributing, pull-requests and docstrings"
+"Where we’re going, we won’t need real images — Q4 papers"
+"10 Machine Learning, Artificial Intelligence Advances in 2017"
+I’ll tell you why Deep Learning is so popular and in demand
+8 Deep Learning Best Practices I Learned About in 2017
+Intuition Machines versus Algebraic Minds
+Thoughts on Gary Marcus’ Critique of Deep Learning
+How Machine Learning and Artificial Intelligence will revolutionize our world.
+Can We Humanise Artificial Intelligence?
+Redefining Systems of Emotions (The NLP Podcast)
+dThe 3 Tricks That Made AlphaGo Zero Work
+An intuitive introduction to Generative Adversarial Networks (GANs)
+Gary Marcus’s Deep Learning Critique Triggers Backlash
+AI based UI Development (AI-UI)
+A deeper understanding of NNets (Part 2) — RNNs
+"AI Saturdays (A16), Lagos"
+Deep Learning: Highlights of 2017
+Understanding LSTM Networks by Example using Torch
+DEEP BEERS: Playing with Deep Recommendation Engines Using Keras
+What is wrong with Convolutional neural networks ?
+"What’s Needed Next, Before The Robot Revolution"
+AISaturdayLagos: Recap on Week 2
+A refresher on batch (re-)normalization
+Handwriting recognition and language modeling with MXNet Gluon
+Key-point detection in flower images using deep learning
+Google News and Leo Tolstoy: Visualizing Word2Vec Word Embeddings using t-SNE
+Introducing LoanScan
+The Most Important Factor In Decision-Making
+Blockchain analytics startups are on the rise
+Integrating Spark with Jhipster
+MIT Sloan Sports Analytics Conference — 2019 Audience Analysis
+What I Learned About Warm Introductions After Cold Emailing 187 VCs About Warm Introductions
+Towards a Transparent & Accessible Decentralized Future
+Data Visualisation: No Tools Required
+Three Myths of Graph Databases
+Arbitrage: Get realtime lending rates from DeFi platforms
+An executive guide to drive REAL value out of your data
+"Interview with Flipside Crypto’s new Head of Product, Alex Chopan"
+#43 Growth Weekly News
+What Are the Major Advantages of Using a Graph Database? — TigerGraph
+"First Winning Wars, Only To Lose Them Later"
+8 Articles Java Developers Should Read — 4th Week April 2019
+The Anatomy of IPv4 and IPv6 Addresses
+Lyon's love for electric scooters
+What is your privacy worth?
+"dApp developers, do not miss out! These dApps are sharing the 20,000 USD prize pool each week"
+Africa: the New Destination for the Chinese Short Video Business
+How Apptopia Got a Nuclear Reactor
+Komiser: Detect potential AWS cost savings
+My Casual Anxiety
+How can Veil help decentralize anonymous blockchain
+We Don’t Need Social Media
+An explanation of Progressive Web Apps for the non-PWA crowd
+A Short History of Ethereum
+My remarks at the town hall
+5 Lessons from SpaceX for Product Managers in 2020
+What in the world is the TREOS FIFO Tunnel?
+Different and Awesome
+The NEXT digital asset: utility and uses.
+The Philosophy of Science
+Tips from the Top: How Calendly is Standing Up Product Operations
+Talent University: A Beginner’s Guide to talent.io
+My experience at Junction 2019 — Ucha Vekua
+"Two Months in, Apple Arcade is a No-Brainer for Gamers"
+12 Finest YouTube Alternatives to Find Out What’s Not on YouTube
+Hiring a Product Operations Manager? Read this First
+I went to the #FutureofMonzo event. Here are my thoughts
+21 Days of AWS using Terraform — Day 14- Introduction to Transit Gateway using Terraform
+Building the Future of Tech One Donation at a Time
+A solid basic framework for a successful side project
+A day of the life of Software Engineer in Software Developement Company | Android Developer
+Rad-Tolerant Quad-Core DIY Processor for FPGAs
+Miners. Miners? Miners!
+"This Simple Trick Helped Me Reach 2,000,000 Unsplash Views in Less Than 6 Months"
+"The Missing 16"" MacBook Pro"
+"Tech Inclusion 2019 Speaker Spotlight: Paidamoyo-Janet Azehko,
+Creative Director at Project Erostribe"
+Everything you need to know about TensorFlow 2.0
+TensorFlow Extended (TFX): Real World Machine Learning in Production
+Solved. Error : Failed to get convolution algorithm. This is probably because cuDNN failed to initialize
+How to run TensorFlow on C++. Machine Learning models in production
+Getting Reproducible Results in TensorFlow
+How to visualize feature vectors with sprites and TensorFlow’s TensorBoard
+Match TensorFlow Results and Keras Results
+State of the Art Object Detection — use these top 3 data augmentations and Google Brain’s optimal policy for training your architecture
+Run TensorFlow Machine Learning Code In C# With Almost No Changes
+Reverse Image Search using Auto-Encoders
+Match TensorFlow and Keras: Sigmoid
+Everything You Need to Know About Tensor Flow 2.0
+Fast.ai’s Deep Learning from the Foundations with Swift for TensorFlow
+Transfer Learning with 5 lines of code
+Learning Tensorflow by building it from Scratch
+"Captioning Images with CNN and RNN, using PyTorch"
+Gentle Introduction to Linear Regression in Pytorch
+Mario vs. Wario — round 2: CNNs in PyTorch and Google Colab
+The battle: Tensorflow vs Pytorch
+PyTorch: Linear and Logistic Regression Models
+PyTorch Scholarship Challenge from Facebook
+Reproducing training performance of YOLOv3 in PyTorch (Part1)
+"Study Jam #1 FAQ, Tips and Glossary from Udacity Facebook Pytorch Scholarship Deep Learning Nanodegree"
+Linear Regression with PyTorch
+The #paperoftheweek 4 was: Deep Neural Networks with Box Convolutions
+Binary Classifier using PyTorch
+A Beginner’s Tutorial on Building an AI Image Classifier using PyTorch
+Continual/Lifelong Learning with Deep Architectures
+RTX 2060 Vs GTX 1080Ti Deep Learning Benchmarks: Cheapest RTX card Vs Most Expensive GTX card
+News Topic Similarity Measure using Pretrained BERT Model
+A Beginner’s Tutorial on Building an AI Image Classifier using PyTorch
+PyTorch: Introduction to Neural Network — Feedforward / MLP
+Transfer Learning with PyTorch
+Loc2vec — a fast pytorch implementation
+Running PyTorch on TPU: a bag of tricks
+Exploring the Deep Learning Framework PyTorch
+"New State of the Art AI Optimizer: Rectified Adam (RAdam). Improve your AI accuracy instantly versus Adam, and why it works."
+Tutorial on Graph Neural Networks for Computer Vision and Beyond (Part 1)
+Data Augmentation for Deep Learning
+TensorFlow vs PyTorch vs Keras for NLP — Exxact
+🌓 From TensorFlow to PyTorch
+Tune: a Python library for fast hyperparameter tuning at any scale
+Everything You Need To Know About Saving Weights In PyTorch
+Image Classification using Deep Learning & PyTorch: A Case Study with Flower Image Data
+Mish: A Self Regularized Non-Monotonic Neural Activation Function
+"Anisotropic, Dynamic, Spectral and Multiscale Filters Defined on Graphs"
+The “gradient” argument in Pytorch’s “backward” function — explained by examples
+Take a deeper look at your Pytorch model with the new Tensorboard built-in
+A Tutorial on Generating & Plotting 3D Gaussian Distributions with (Python/Numpy/Tensorflow/Pytorch) & (Matplotlib/Plotly).
+The Learning Curves of Federated Learning with a Trusted Aggregator
+When Pytorch-transformers meets Fastai (w/ Google Colab)
+Generating Titles for Kaggle Kernels with LSTM
+Natural Language Processing with Spacy in Node.js
+"Modern Text Mining with Python, Part 2 of 5: Data Exploration with Pandas"
+News documents clustering using python (latent semantic analysis)
+"Modern Text Mining with Python, Part 1 of 5: Introduction, cleaning and linguistics"
+Comparing Text Summarization Techniques
+Baidu’s ERNIE Tops Google’s BERT in Chinese NLP Tasks
+Tinkering with Tensors and Other Great Adventures
+Categorize content with minimal training in Watson
+Building a Game of Throne chatbot for Slack: Part 1 Understanding Language
+Calculus isn’t boring — Tensorflow Part2
+Building an English to Igbo Translation Project
+From master thesis to employment at Storytel
+Programming your mind: Anchoring a state of mind
+Language Models: N-Gram
+Introducing SummarLight — A Chrome Extension That Highlights The Most Important Parts Of An Article
+Topic modeling on large-scale corpus with Spark
+Transformer — Attention is all you need
+The State of NLP Literature: Part I
+Updated Text Preprocessing techniques for Sentiment Analysis
+Multilingual Sentence Models in NLP
+Padding Word2Vec Embeddings with Simple Document Encodings
+Chatbot Development using Deep Learning & NLP implementing Seq2Seq Model
+The Art of Conversation
+About the NLP Scholar Project
+Customer service chatbots: Building your MVP — Dashbot
+Slack channels with minds of their own
+Automatic adjudication based on the inter-annotator agreement
+A collection of additional resources for the Natural Language Processing Course (Coursera)
+"BERT is now part of Google Search, so let’s understand how it reasons"
+A Practical Guide to Build an Enterprise Knowledge Graph for Investment Analysis
+Analysis of Tweets about the Joker (2019 film) in Python
+Multi Domain NLP using Bidirectional LSTM
+Introduction to Knowledge Graphs and their Applications
+Geometric Deep Learning for Pose Estimation
+A New Way to look at GANs
+Turning a Raspberry Pi 3B+ into a powerful object recognition edge server with Intel Movidius NCS2
+Fare Evasion Detection using Computer Vision
+Occupational Health and Safety with Video Recognition
+2. Introduction to Computer Vision with Deep Learning: Hands-on Kernels With openCV
+"Google Releases Open Image V5, Launches Open Image Challenge"
+Can we generate Automatic Cricket Commentary using Neural Networks ?
+FlowX: Our work within the GovTech Catalyst
+🔥Supervisely: end-to-end web-platform for Deep Learning and Computer Vision
+Highlights of ICLR 2019
+Deepfakes: What’s real with synthetic data?
+Sarafan.AI recognizes beauty products in a video
+Computer Graphics + Computer Vision = TensorFlow Graphics
+Object recognition with Intel® Distribution of OpenVINOTM toolkit
+Convolutional Neural Network(CNN) with Practical Implementation
+Cameras Don’t See — Mimicking the Human Eye in Software
+Applying 21st Century Computer Vision to 18th Century Botany
+Transfer Learning: Massive training data reduction with pre-training
+Exploring Google Cloud Vision API and Feature Demonstration With Python
+Watch this Neural Network Learn to See
+Reducing your labeled data requirements (2–5x) for Deep Learning: Deep Mind’s new “Contrastive Predictive Coding 2.0”
+Introducing in-house lidars for our self-driving vehicles
+Artificial Intelligence Is Getting Better At Human Things
+Week3 — Plant Disease Detection
+Inside the mind of the Skydio 2
+Understand The Computer Vision Landscape before the end of 2019
+Augmented Reality DIY
+Multi-label image classifier for threat detection with FP16 inference (part 2)
+Is Simulated Data the Great Equalizer in the AI race?
+Segmentation of Roads in Aerial Images.
+Computer Vision — Detecting objects using Haar Cascade Classifier
+SpaceNet 5 Results Deep Dive Part 1 — Geographic Diversity
+How a simple mix of object-oriented programming can sharpen your deep learning prototype
+Are Cats Liquid?
+Don’t Bet on AI (yet)
+The path to better job satisfaction for software engineers
+Measuring Machine Learning
+Use of Cross Validation in Machine Learning
+ModBerry’s M500 Industrial IoT Computer Gets an Upgrade with the Raspberry Pi 4
+Development update on Verge #24
+Video Transcoding and Optimization for web with FFmpeg made easy
+HBO’s Chernobyl: Impacts on Climate Efforts and Public Health
+Natural Beauty Meets Artificial Intelligence
+Your Phone Addiction Isn’t Your Fault. We’re Wired To Attach To Our Phones.
+"Design, How and Why it Evolves | Skeuomorphism to Flat UI"
+This Real Estate Robopreneur Plans to Purchase More than a Million Homes
+Intro To My Series On “Creating the Future”: A Short Story About The Future
+"Accelerators, Innovation Hubs and Creative Enterprise Centres in Freetown, Sierra Leone"
+Exploring the Church — in Virtual Reality
+"Soft Staking: High-yield and Anytime-withdrawal? Yes, You May."
+"Cash This Check for $250, and Sign Away Your Right to Sue"
+How Edmonton Can Better Foster Its Vast Engineering And Tech Talent — Why I’m Starting a Startup Residence
+A Day in the Life of... a Business Analyst
+Make tech research more fun (and effective!) with a little design thinking
+To Build Internally or To Buy a Platform??
+5 Tips on Keeping Your Child Unplugged This Summer
