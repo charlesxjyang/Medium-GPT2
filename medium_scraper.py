@@ -11,6 +11,7 @@ import datetime
 import multiprocessing as mp
 import numpy as np
 from langdetect import detect
+from post_processing_scraper_data import convertPklToTxt
 
 n_cpus = 12
 clap_threshold = 5
@@ -128,5 +129,7 @@ def main():
         df = df.drop_duplicates()
         df.to_pickle(file_name+'_'+str(year)+'.pkl')
         print("YEAR: {0}".format(year))
+    convertPklToTxt(['data/raw_medium_articles_2015.pkl','data/raw_medium_articles_2016.pkl','data/raw_medium_articles_2017.pkl','data/raw_medium_articles_2018.pkl','data/raw_medium_articles_2019.pkl'])
 if __name__=='__main__':
     main()
+    
